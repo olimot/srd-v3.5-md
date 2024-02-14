@@ -212,7 +212,7 @@ When a spell’s name begins with “lesser,” “greater,” or “mass,” th
 
 **Illusory Script <sup>M</sup>:** Only intended reader can decipher.
 
-**Invisibility Sphere:**Makes everyone within 10 ft. invisible.
+**Invisibility Sphere:** Makes everyone within 10 ft. invisible.
 
 **Major Image:** As _silent image_, plus sound, smell and thermal effects.
 

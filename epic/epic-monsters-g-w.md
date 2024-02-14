@@ -436,11 +436,11 @@ A pseudotroll’s natural weapons are treated as epic for the purpose of overcom
 
 **Special Attacks:** A pseudonatural creature retains all the special attacks of the base creature and also gains the following.
 
-**_Constant Insight (Su):_**The creature makes all its attacks with a +15 insight bonus. The creature is not affected by the miss chance that applies to attacks against a concealed target.
+**_Constant Insight (Su):_** The creature makes all its attacks with a +15 insight bonus. The creature is not affected by the miss chance that applies to attacks against a concealed target.
 
-**_Improved Grab (Ex):_**If the creature hits an opponent smaller than it with a tentacle, it deals normal Damage and attempts to start a grapple as a free action without provoking an attack of opportunity.
+**_Improved Grab (Ex):_** If the creature hits an opponent smaller than it with a tentacle, it deals normal Damage and attempts to start a grapple as a free action without provoking an attack of opportunity.
 
-**_Rotting Constriction (Ex):_**Once the creature has hold of an opponent, each successful grapple check it makes during subsequent rounds permanently drains 2d4 points of Constitution. At the same time, the creature regains 10 lost hit points.
+**_Rotting Constriction (Ex):_** Once the creature has hold of an opponent, each successful grapple check it makes during subsequent rounds permanently drains 2d4 points of Constitution. At the same time, the creature regains 10 lost hit points.
 
 **Spell-Like Abilities:** At will—_blur, dimension door, shield, unhallow._ Caster level 20th. The DCs are Charisma-based.
 
@@ -456,7 +456,7 @@ A pseudotroll’s natural weapons are treated as epic for the purpose of overcom
 
 If the creature already has one or more of these special qualities, use the better value.
 
-**_Alternate Form (Su):_**At will, a pseudonatural creature can take the form of a grotesque, tentacled mass (or another appropriately gruesome form), but all its abilities remain unchanged despite the alien appearance. Changing shape is a standard action. Other creatures receive a –1 morale penalty on their attack rolls against pseudonatural creatures in this alternate form.
+**_Alternate Form (Su):_** At will, a pseudonatural creature can take the form of a grotesque, tentacled mass (or another appropriately gruesome form), but all its abilities remain unchanged despite the alien appearance. Changing shape is a standard action. Other creatures receive a –1 morale penalty on their attack rolls against pseudonatural creatures in this alternate form.
 
 **Saves:** Same as the base creature.
 
@@ -540,7 +540,7 @@ A shape of fire’s natural weapons are treated as epic for the purpose of overc
 
 **Undead Traits:** Immune to poison, _sleep,_ paralysis, stunning, disease, death, effects, necromantic effects, mind-affecting effects, and any effect requiring a Fortitude save unless it also works on objects. Not subject to critical hits, subdual Damage, ability Damage, ability drain, or energy drain. Negative energy heals. Not at risk of death from massive Damage, but destroyed at 0 hit points or less. Darkvision 60 ft. Cannot be raised; resurrection works only if creature is willing.
 
-**Fire Subtype:**Immunity to fire. Vulnerability to cold (takes half again as much (+50%) damage as normal from cold, regardless of whether a saving throw is allowed, or if the save is a success or failure).
+**Fire Subtype:** Immunity to fire. Vulnerability to cold (takes half again as much (+50%) damage as normal from cold, regardless of whether a saving throw is allowed, or if the save is a success or failure).
 
 **Heat Aura (Su):** A 10-foot-radius spread heat aura surrounds a shape of fire. All creatures of the fire subtype in the area (including the shape of fire) are treated as if having turn resistance +6 (if undead) and fast healing 10. Creatures subject to fire Damage take 2d10 points of fire Damage each round they remain within the heat aura.
 
@@ -698,7 +698,7 @@ A winterwight’s natural weapons are treated as epic for the purpose of overcom
 
 **Undead Traits:** Immune to poison, _sleep,_ paralysis, stunning, disease, death, effects, necromantic effects, mind-affecting effects, and any effect requiring a Fortitude save unless it also works on objects. Not subject to critical hits, subdual Damage, ability Damage, ability drain, or energy drain. Negative energy heals. Not at risk of death from massive Damage, but destroyed at 0 hit points or less. Darkvision 60 ft. Cannot be raised; resurrection works only if creature is willing.
 
-**Cold Subtype:**Immunity to cold. Vulnerability to fire (takes half again as much (+50%) damage as normal from fire, regardless of whether a saving throw is allowed, or if the save is a success or failure).
+**Cold Subtype:** Immunity to cold. Vulnerability to fire (takes half again as much (+50%) damage as normal from fire, regardless of whether a saving throw is allowed, or if the save is a success or failure).
 
 **Cold Aura (Su):** A 10-foot-radius spread cold aura surrounds a winterwight. All creatures of the cold sub-type in the field (including the winterwight) are treated as if having turn resistance +6 (if undead) and fast healing 10. Creatures subject to cold Damage take 2d10 points of cold Damage each round they remain within the cold aura.
 
@@ -746,13 +746,13 @@ A worm that walks rarely speaks, although it retains knowledge of all languages 
 
 **Special Qualities:** A worm that walks retains any special abilities it had in life and gains those mentioned below.
 
-**_Blindsight (Ex):_**Worms that walk have blindsight 300 ft.
+**_Blindsight (Ex):_** Worms that walk have blindsight 300 ft.
 
-**_Spell Resistance (Ex):_**A worm that walks has spell resistance equal to its Challenge Rating +10.
+**_Spell Resistance (Ex):_** A worm that walks has spell resistance equal to its Challenge Rating +10.
 
-**_Frightful Presence (Su):_**When a worm that walks engulfs a victim, witnesses must make a Will save (DC 10 + 1/2 the worm’s HD + the worm’s Cha modifier). Those who make the save are shaken. Those who fail by 5 or fewer points are frightened. Those who fail by 6 to 10 points are panicked. Those who fail by 11 or more points are cowering. All these conditions last for 1d4 rounds. Those who have seen a worm use this attack before gain a +5 bonus on their saving throws. The victim of the worm’s engulf attack has a –5 penalty on his or her saving throw.
+**_Frightful Presence (Su):_** When a worm that walks engulfs a victim, witnesses must make a Will save (DC 10 + 1/2 the worm’s HD + the worm’s Cha modifier). Those who make the save are shaken. Those who fail by 5 or fewer points are frightened. Those who fail by 6 to 10 points are panicked. Those who fail by 11 or more points are cowering. All these conditions last for 1d4 rounds. Those who have seen a worm use this attack before gain a +5 bonus on their saving throws. The victim of the worm’s engulf attack has a –5 penalty on his or her saving throw.
 
-**_Discorporate (Ex):_**If gravely threatened, a worm can discorporate as a free action, simply falling into a pile of individual vermin that slither quickly away. So long as any of the component vermin survive, they can breed and create a new body to house the wizard’s intelligence and personality. Discorporating is a dangerous tactic, because once separated, the vermin are treated no differently than other vermin. Also, the worm stands a good chance of losing all its equipment. However, discorporation almost assures that at least one maggot (if not dozens) will manage to crawl away, and so provide for the worm’s continued existence.
+**_Discorporate (Ex):_** If gravely threatened, a worm can discorporate as a free action, simply falling into a pile of individual vermin that slither quickly away. So long as any of the component vermin survive, they can breed and create a new body to house the wizard’s intelligence and personality. Discorporating is a dangerous tactic, because once separated, the vermin are treated no differently than other vermin. Also, the worm stands a good chance of losing all its equipment. However, discorporation almost assures that at least one maggot (if not dozens) will manage to crawl away, and so provide for the worm’s continued existence.
 
 **Immunities (Ex):** A worm that walks has no discernable anatomy, so it is not subject to critical hits or flanking.
 

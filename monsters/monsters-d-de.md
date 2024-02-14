@@ -82,7 +82,7 @@ A babau’s natural weapons, as well as any weapons it wields, are treated as ch
 
 **Protective Slime (Su):** A slimy red jelly coats the babau’s skin. Any weapon that touches it takes 1d8 points of acid damage from the corrosive goo, and the weapon’s hardness does not reduce this damage. A magic weapon may attempt a DC 18 Reflex save to avoid taking this damage. A creature who strikes the babau with an unarmed attack, unarmed strike, touch spell, or natural weapon takes this damage as well but can negate the damage with a DC 18 Reflex save. The save DCs are Constitution-based.
 
-**_Summon Demon_ (Sp):**Once per day a babau can attempt to summon 1 babau with a 40% chance of success. This ability is the equivalent of a 3rd-level spell.
+**_Summon Demon_ (Sp):** Once per day a babau can attempt to summon 1 babau with a 40% chance of success. This ability is the equivalent of a 3rd-level spell.
 
 **Skills:** Babaus have a +8 racial bonus on Hide, Listen, Move Silently, and Search checks.
 
@@ -100,7 +100,7 @@ A balor’s _+1 flaming whip_ is a long, flexible weapon with many tails tipped 
 
 A balor’s natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming damage reduction.
 
-**Death Throes (Ex):**When killed, a balor explodes in a blinding flash of light that deals 100 points of damage to anything within 100 feet (Reflex DC 30 half ). This explosion automatically destroys any weapons the balor is holding. The save DC is Constitution-based.
+**Death Throes (Ex):** When killed, a balor explodes in a blinding flash of light that deals 100 points of damage to anything within 100 feet (Reflex DC 30 half ). This explosion automatically destroys any weapons the balor is holding. The save DC is Constitution-based.
 
 **Entangle (Ex):** A balor’s _+1 flaming whip_ entangles foes much like an attack with a net. The whip has 20 hit points. The whip needs no folding. If it hits, the target and the balor immediately make opposed Strength checks; if the balor wins, it drags the target against its flaming body (see below). The target remains anchored against the balor’s body until it escapes the whip.
 

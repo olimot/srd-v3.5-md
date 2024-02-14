@@ -18,7 +18,7 @@ The character can sense magical auras in objects.
 
 <table data-debug="no-caption" class="half-width-table"><tbody><tr><th>Task</th><th>DC</th></tr><tr><td>Detect magic</td><td>50</td></tr></tbody></table>
 
-**Detect Magic:**The character can sense if an item has a magical aura. He or she can then use Spellcraft to learn more about the item as if he or she had already cast _detect magic_ on the item. This requires a full-round action.
+**Detect Magic:** The character can sense if an item has a magical aura. He or she can then use Spellcraft to learn more about the item as if he or she had already cast _detect magic_ on the item. This requires a full-round action.
 
 ## Balance
 
@@ -32,11 +32,11 @@ The character can implant a nonmagical suggestion in a target, display a false a
 
 <table data-debug="no-caption" class="half-width-table"><tbody><tr><th>Example Circumstance</th><th>Sense Motive Modifier</th></tr><tr><td>Instill suggestion in target</td><td>+50</td></tr><tr><th>Task</th><th>DC</th></tr><tr><td>Display false alignment</td><td>70</td></tr><tr><td>Disguise surface thoughts</td><td>100</td></tr></tbody></table>
 
-**Instill Suggestion in Target:**This is identical to the effect of the _suggestion_ spell, except that it is nonmagical and lasts for only 10 minutes. It can be sensed as if it were an enchantment effect (Sense Motive DC 25).
+**Instill Suggestion in Target:** This is identical to the effect of the _suggestion_ spell, except that it is nonmagical and lasts for only 10 minutes. It can be sensed as if it were an enchantment effect (Sense Motive DC 25).
 
-**Display False Alignment:**The character can fool alignment-sensing effects by displaying a false alignment of his or her choice. Once set, a false alignment remains as long as the character remains conscious and awake. Setting or changing a false alignment requires a full-round action.
+**Display False Alignment:** The character can fool alignment-sensing effects by displaying a false alignment of his or her choice. Once set, a false alignment remains as long as the character remains conscious and awake. Setting or changing a false alignment requires a full-round action.
 
-**Disguise Surface Thoughts:**The character can fool spells such as _detect thoughts_ (or similar effects) by displaying false surface thoughts. While the character can’t completely mask the presence of his or her thoughts, he or she can change his or her apparent Intelligence score (and thus the character’s apparent mental strength) by as much as 10 points and can place any thought in his or her “surface thoughts” to be read by such spells or effects. If a character attempts to use Sense Motive to detect his or her surface thoughts (see the Sense Motive skill description), this becomes an opposed check (though any result lower than 100 automatically fails).
+**Disguise Surface Thoughts:** The character can fool spells such as _detect thoughts_ (or similar effects) by displaying false surface thoughts. While the character can’t completely mask the presence of his or her thoughts, he or she can change his or her apparent Intelligence score (and thus the character’s apparent mental strength) by as much as 10 points and can place any thought in his or her “surface thoughts” to be read by such spells or effects. If a character attempts to use Sense Motive to detect his or her surface thoughts (see the Sense Motive skill description), this becomes an opposed check (though any result lower than 100 automatically fails).
 
 ## Climb
 
@@ -44,7 +44,7 @@ The character can climb otherwise unclimbable surfaces.
 
 <table data-debug="no-caption" class="half-width-table"><tbody><tr><th>DC</th><th>Surface</th></tr><tr><td>70</td><td>A perfectly smooth, flat, vertical surface</td></tr><tr><td>100</td><td>A perfectly smooth, flat, overhang or ceiling</td></tr></tbody></table>
 
-**Rapid Climbing:**A character can climb his or her speed as a move-equivalent action, or double his or her speed as a full-round action (requiring two Climb checks), but the character takes a –20 penalty on his or her check.
+**Rapid Climbing:** A character can climb his or her speed as a move-equivalent action, or double his or her speed as a full-round action (requiring two Climb checks), but the character takes a –20 penalty on his or her check.
 
 Special: The Legendary Climber feat allows a character to ignore any penalties for accelerated or rapid climbing.
 
@@ -66,7 +66,7 @@ The character can craft items more quickly than normal.
 
 <table data-debug="no-caption" class="half-width-table"><tbody><tr><th>Task</th><th>DC (or DC Modifier)</th></tr><tr><td>Create augmented substance</td><td>+20 or more to DC</td></tr></tbody></table>
 
-**Create Augmented Alchemical Item or Substance:**This requires the Augmented Alchemy feat, and allows a character to create alchemical items and substances of greater power than normal. To augment an alchemical substance, add +20 to the DC required to create the item and multiply the cost by 5. If the item or substance deals damage, double the damage dealt. If the item or substance doesn’t deal damage, double the duration of its effect. If the item or substance doesn’t deal damage and doesn’t have a specific listed duration (or has an instantaneous duration), double all dimensions of its area. If the item or substance doesn’t fit any of these categories, then it cannot be improved in this manner. A character can create an item with multiple degrees of augmentation. For every additional multiplier applied to damage, duration, or area, add an additional +20 to the DC and add an additional 5 to the cost multiplier.
+**Create Augmented Alchemical Item or Substance:** This requires the Augmented Alchemy feat, and allows a character to create alchemical items and substances of greater power than normal. To augment an alchemical substance, add +20 to the DC required to create the item and multiply the cost by 5. If the item or substance deals damage, double the damage dealt. If the item or substance doesn’t deal damage, double the duration of its effect. If the item or substance doesn’t deal damage and doesn’t have a specific listed duration (or has an instantaneous duration), double all dimensions of its area. If the item or substance doesn’t fit any of these categories, then it cannot be improved in this manner. A character can create an item with multiple degrees of augmentation. For every additional multiplier applied to damage, duration, or area, add an additional +20 to the DC and add an additional 5 to the cost multiplier.
 
 <table data-debug="no-caption" class="half-width-table"><tbody><tr><th>Item</th><th>Effect of Augmenting</th></tr><tr><td>Acid</td><td>Direct hit 2d6, splash 2</td></tr><tr><td>Alchemist’s fire</td><td>Direct hit 2d6, splash 2</td></tr><tr><td>Antitoxin</td><td>Duration 2 hours</td></tr><tr><td>Smokestick</td><td>Smoke fills a 20-foot cube</td></tr><tr><td>Sunrod</td><td>Glows for 12 hours</td></tr><tr><td>Tanglefoot bag</td><td>Becomes brittle and fragile after 20 minutes</td></tr><tr><td>Tindertwig</td><td>No effect</td></tr></tbody></table>
 
@@ -110,7 +110,7 @@ The character can pass through spaces smaller than his or her head, or even thro
 
 <table data-debug="no-caption" class="half-width-table"><tbody><tr><th>DC</th><th>Task</th></tr><tr><td>80</td><td>Extremely tight space</td></tr><tr><td>120</td><td>Pass through <i>wall of force</i></td></tr></tbody></table>
 
-**Extremely Tight Space:**This is the DC for getting through a space when one’s head shouldn’t even be able to fit; this can be as small as 2 inches square for Medium-size creatures. Halve this limit for each size category less than Medium-size; double it for each size category greater than Medium-size. If the space is long, such as in a chimney, multiple checks may be called for.
+**Extremely Tight Space:** This is the DC for getting through a space when one’s head shouldn’t even be able to fit; this can be as small as 2 inches square for Medium-size creatures. Halve this limit for each size category less than Medium-size; double it for each size category greater than Medium-size. If the space is long, such as in a chimney, multiple checks may be called for.
 
 **Pass through _Wall of Force_:** This allows a character to find a gap of weakness in a _wall of force_ (or similar force effect) and squeeze through it.
 
@@ -128,7 +128,7 @@ The character can gather information without eliciting suspicion.
 
 <table data-debug="no-caption" class="half-width-table"><tbody><tr><th>Task</th><th>Check Modifier</th></tr><tr><td>Avoid suspicion</td><td>–20</td></tr></tbody></table>
 
-**Avoid Suspicion:**By accepting a –20 penalty on his or her Gather Information check, a character can avoid any suspicions that might otherwise be aroused by someone pursuing sensitive information.
+**Avoid Suspicion:** By accepting a –20 penalty on his or her Gather Information check, a character can avoid any suspicions that might otherwise be aroused by someone pursuing sensitive information.
 
 ## Handle Animal
 
@@ -148,7 +148,7 @@ The character can greatly speed a patient’s recovery of hit points.
 
 **Quicken Recovery:** The character can allow a character to regain hit points in a single hour as if he or she had provided long-term care for a full day (2 or 3 hit points per level, based on activity). The character can quicken the recovery of up to six patients at a time. No character’s recovery can be quickened more than once per day (even by different healers).
 
-**Perfect Recovery:**The character can allow a character to regain hit points in a single hour as if he or she had provided long-term care for a full week (2 or 3 hit points per level per day, based on activity). The character can use perfect recovery on up to six patients at a time. No character’s recovery can be perfected more than once per day, nor can perfect recovery and quicken recovery both be used on the same patient in the same day (even by different healers).
+**Perfect Recovery:** The character can allow a character to regain hit points in a single hour as if he or she had provided long-term care for a full week (2 or 3 hit points per level per day, based on activity). The character can use perfect recovery on up to six patients at a time. No character’s recovery can be perfected more than once per day, nor can perfect recovery and quicken recovery both be used on the same patient in the same day (even by different healers).
 
 ## Hide
 
@@ -156,7 +156,7 @@ The character can hide others as well as hiding him or herself.
 
 <table data-debug="no-caption" class="half-width-table"><tbody><tr><th>Task</th><th>Check Modifier</th></tr><tr><td>Hide another</td><td>–30</td></tr></tbody></table>
 
-**_Hide Another:_**By accepting a –30 penalty on his or her Hide check, a character can hide another adjacent creature whose size is no more than one category larger than the character’s own. Modifiers to the check for the size of the creature still apply, as do all other penalties, including those for moving faster than half speed. Likewise, a character can only hide another creature when it is not under direct observation by a third party. The creature the character hides remains hidden until it is spotted or it takes some other action that breaks its concealment, as normal.
+**_Hide Another:_** By accepting a –30 penalty on his or her Hide check, a character can hide another adjacent creature whose size is no more than one category larger than the character’s own. Modifiers to the check for the size of the creature still apply, as do all other penalties, including those for moving faster than half speed. Likewise, a character can only hide another creature when it is not under direct observation by a third party. The creature the character hides remains hidden until it is spotted or it takes some other action that breaks its concealment, as normal.
 
 ## Intimidate
 
@@ -178,7 +178,7 @@ The character can pinpoint the location of an invisible creature, or detect an i
 
 <table data-debug="no-caption" class="half-width-table"><tbody><tr><th>DC</th><th>Task</th></tr><tr><td>80</td><td>Defeat illusion with auditory component</td></tr></tbody></table>
 
-**Defeat Illusion:**The character can automatically detect any illusion with an auditory component for what it truly is. No Will save is required, and the character doesn’t have to interact with the illusion (but he or she must be able to hear its auditory component). Special: A character can use Listen to notice the presence of an invisible creature (generally opposed by a Move Silently check). If the character beats the DC by 20 or more, he or she can pinpoint the location of the invisible creature, though it still maintains total concealment from the character (50% miss chance).
+**Defeat Illusion:** The character can automatically detect any illusion with an auditory component for what it truly is. No Will save is required, and the character doesn’t have to interact with the illusion (but he or she must be able to hear its auditory component). Special: A character can use Listen to notice the presence of an invisible creature (generally opposed by a Move Silently check). If the character beats the DC by 20 or more, he or she can pinpoint the location of the invisible creature, though it still maintains total concealment from the character (50% miss chance).
 
 ## Move Silently
 
@@ -254,7 +254,7 @@ The character can identify properties of a magic item.
 
 **Identify Basic Property of Magic Item:** This use of the skill requires one round of inspection, and functions exactly as if the character had cast an _identify_ spell on the item. A character can’t attempt this on the same item more than once.
 
-**Identify All Properties of Magic Item:**This requires one minute of inspection, and reveals all properties of a single magic item (including command words and charges remaining). A character can’t attempt this on the same item more than once. If an item has different caster levels for different properties, use the highest caster level.
+**Identify All Properties of Magic Item:** This requires one minute of inspection, and reveals all properties of a single magic item (including command words and charges remaining). A character can’t attempt this on the same item more than once. If an item has different caster levels for different properties, use the highest caster level.
 
 **Quick Identification:** A character can identify a substance or potion in the field as a full-round action, without an alchemical lab or any cost. The character can’t retry this check (or take 20); if he or she fails, the character must identify the substance in an alchemical lab, as normal.
 
@@ -272,7 +272,7 @@ A character can use Spot to notice the presence of an invisible creature. The re
 
 <table data-debug="no-caption" class="half-width-table"><tbody><tr><th>Task</th><th>DC Modifier</th></tr><tr><td>Read lips while moving at up to full speed</td><td>+20</td></tr><tr><td>Pronounce unfamiliar language</td><td>+20</td></tr></tbody></table>
 
-**Pronounce Unfamiliar Language:**This use of the skill allows a character to repeat the speech of an observed creature, potentially allowing a comrade to translate the speech. It doesn’t grant the character any ability to understand the language spoken.
+**Pronounce Unfamiliar Language:** This use of the skill allows a character to repeat the speech of an observed creature, potentially allowing a comrade to translate the speech. It doesn’t grant the character any ability to understand the language spoken.
 
 ## Survival
 
@@ -324,9 +324,9 @@ The character can splice ropes together quickly, tie unique knots, and even anim
 
 <table data-debug="no-caption" class="half-width-table"><tbody><tr><th>Task</th><th>DC</th></tr><tr><td>Quick splicing</td><td>50</td></tr><tr><td>Tie unique knot</td><td>60</td></tr><tr><td>Animate held rope</td><td>80</td></tr></tbody></table>
 
-**Quick Splicing:**The character can splice two ropes together as a move-equivalent action.
+**Quick Splicing:** The character can splice two ropes together as a move-equivalent action.
 
-**Tie Unique Knot:**The character can tie a knot that only he or she knows how to untie. This doesn’t affect any Escape Artist checks made to escape these bindings.
+**Tie Unique Knot:** The character can tie a knot that only he or she knows how to untie. This doesn’t affect any Escape Artist checks made to escape these bindings.
 
 **Animate Held Rope:** The character can command any rope he or she holds as if it had the _animate rope_ spell cast upon it (except that using the skill in this way doesn’t grant any bonus on Use Rope checks made with the animated rope). Each command requires a separate Use Rope check. Because the effect isn’t magical, it can’t be dispelled.
 

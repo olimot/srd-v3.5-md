@@ -10,7 +10,7 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 **Enchant Arrow:** For every two levels beyond 9th, the potency of the arrows fired by the arcane archer increases by +1.
 
-**_Hail of Arrows:_**In lieu of his or her regular attacks, once per day the arcane archer can fire an arrow at each and every target within range, with a maximum number of targets equal to his or her arcane archer class level, as normal.
+**_Hail of Arrows:_** In lieu of his or her regular attacks, once per day the arcane archer can fire an arrow at each and every target within range, with a maximum number of targets equal to his or her arcane archer class level, as normal.
 
 **Bonus Feats:** The arcane archer gains a bonus feat (selected from the list of epic arcane archer feats) every four levels after 10th.
 

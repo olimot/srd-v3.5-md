@@ -692,7 +692,7 @@ Abjuration
 
 **Range:** Close (25 ft. + 5 ft./2 levels)
 
-**Effect:**Wall 4 ft./level wide, 2 ft./level high
+**Effect:** Wall 4 ft./level wide, 2 ft./level high
 
 **Duration:** 10 min./level (D)
 

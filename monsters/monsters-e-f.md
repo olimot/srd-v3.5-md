@@ -402,7 +402,7 @@ A fiendish creature uses all the base creature’s statistics and abilities exce
 
 **Special Attacks:** A fiendish creature retains all the special attacks of the base creature and also gains the following special attack.
 
-**_Smite Good (Su):_**Once per day the creature can make a normal melee attack to deal extra damage equal to its HD total (maximum of +20) against a good foe.
+**_Smite Good (Su):_** Once per day the creature can make a normal melee attack to deal extra damage equal to its HD total (maximum of +20) against a good foe.
 
 **Special Qualities:** A fiendish creature retains all the special qualities of the base creature and also gains the following.
 

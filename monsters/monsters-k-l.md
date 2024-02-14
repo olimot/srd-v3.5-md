@@ -550,11 +550,11 @@ These weapons deal damage based on the hybrid form’s size. A hybrid may attack
 
 A lycanthrope’s hybrid form does not gain any special attacks of the base animal. A lycanthrope spellcaster cannot cast spells with verbal, somatic, or material components while in animal form, or spells with verbal components while in hybrid form.
 
-**_Curse of Lycanthropy (Su):_**Any humanoid or giant hit by a natural lycanthrope’s bite attack in animal or hybrid form must succeed on a DC 15 Fortitude save or contract lycanthropy. If the victim’s size is not within one size category of the lycanthrope the victim cannot contract lycanthropy from that lycanthrope. Afflicted lycanthropes cannot pass on the curse of lycanthropy.
+**_Curse of Lycanthropy (Su):_** Any humanoid or giant hit by a natural lycanthrope’s bite attack in animal or hybrid form must succeed on a DC 15 Fortitude save or contract lycanthropy. If the victim’s size is not within one size category of the lycanthrope the victim cannot contract lycanthropy from that lycanthrope. Afflicted lycanthropes cannot pass on the curse of lycanthropy.
 
 **Special Qualities:** A lycanthrope retains all the special qualities of the base creature and the base animal, and also gains those described below.
 
-**_Alternate Form (Su):_**A lycanthrope can shift into animal form as though using the _polymorph_ spell on itself, though its gear is not affected, it does not regain hit points for changing form, and only the specific animal form indicated for the lycanthrope can be assumed. It does not assume the ability scores of the animal, but instead adds the animal’s physical ability score modifiers to its own ability scores. A lycanthrope also can assume a bipedal hybrid form with prehensile hands and animalistic features.
+**_Alternate Form (Su):_** A lycanthrope can shift into animal form as though using the _polymorph_ spell on itself, though its gear is not affected, it does not regain hit points for changing form, and only the specific animal form indicated for the lycanthrope can be assumed. It does not assume the ability scores of the animal, but instead adds the animal’s physical ability score modifiers to its own ability scores. A lycanthrope also can assume a bipedal hybrid form with prehensile hands and animalistic features.
 
 Changing to or from animal or hybrid form is a standard action.
 
@@ -564,7 +564,7 @@ Afflicted lycanthropes find this ability difficult to control (see Lycanthropy a
 
 **_Damage Reduction (Ex):_** An afflicted lycanthrope in animal or hybrid form has damage reduction 5/silver. A natural lycanthrope in animal or hybrid form has damage reduction 10/silver.
 
-**_Lycanthropic Empathy (Ex):_**In any form, lycanthropes can communicate and empathize with normal or dire animals of their animal form. This gives them a +4 racial bonus on checks when influencing the animal’s attitude and allows the communication of simple concepts and (if the animal is friendly) commands, such as “friend,” “foe,” “flee,” and “attack.”
+**_Lycanthropic Empathy (Ex):_** In any form, lycanthropes can communicate and empathize with normal or dire animals of their animal form. This gives them a +4 racial bonus on checks when influencing the animal’s attitude and allows the communication of simple concepts and (if the animal is friendly) commands, such as “friend,” “foe,” “flee,” and “attack.”
 
 **_Low-Light Vision (Ex):_** A lycanthrope has low-light vision in any form.
 

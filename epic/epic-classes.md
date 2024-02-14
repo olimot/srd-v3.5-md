@@ -66,7 +66,7 @@ _Epic Cleric Bonus Feat List:_ Armor Skin, Automatic Quicken Spell, Automatic Si
 
 **Animal Companion:** The Druid’s animal companion continues to increase in power. Every three levels higher than 20<sup>th</sup> the animal companion gains 2 bonus hit dice, +1 strength and dexterity, and an additional trick.
 
-**_Wild Shape:_**The epic druid can use this ability to take the form of an animal one additional time per day every four levels higher than 18th. The druid’s ability to wild shape into an elemental does not improve.
+**_Wild Shape:_** The epic druid can use this ability to take the form of an animal one additional time per day every four levels higher than 18th. The druid’s ability to wild shape into an elemental does not improve.
 
 **Bonus Feats:** The epic druid gains a bonus feat (selected from the list of epic druid bonus feats) every four levels after 20th.
 
@@ -124,7 +124,7 @@ _Epic Monk Bonus Feat List:_ Armor Skin, Blinding Speed, Damage Reduction, Energ
 
 **Skill Points at Each Additional Level:** 2 + Int modifier
 
-**_Lay on Hands_ (Su):**Each day a paladin can cure a total number of hit points equal to his or her Charisma bonus (if any) times his or her class level, as normal
+**_Lay on Hands_ (Su):** Each day a paladin can cure a total number of hit points equal to his or her Charisma bonus (if any) times his or her class level, as normal
 
 **Smite Evil (Su):** The epic paladin adds his or her class level to damage with any smite evil attack, as normal. He or she can smite one additional time per day for every five levels higher than 20<sup>th</sup>.
 

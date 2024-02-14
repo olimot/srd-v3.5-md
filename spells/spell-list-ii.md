@@ -990,7 +990,7 @@ that makes those nearby sickened.
 
 #### Ench
 
-**Charm Monster:**Makes monster believe it is your ally.
+**Charm Monster:** Makes monster believe it is your ally.
 
 **Confusion:** Subjects behave oddly for 1 round/level.
 
@@ -1010,7 +1010,7 @@ that makes those nearby sickened.
 
 **Wall of Fire:** Deals 2d4 fire damage out to 10 ft. and 1d4 out to 20 ft. Passing through wall deals 2d6 damage +1/level.
 
-**Wall of Ice:**_Ice plane_ creates wall with 15 hp +1/level, or _hemisphere_ can trap creatures inside.
+**Wall of Ice:** _Ice plane_ creates wall with 15 hp +1/level, or _hemisphere_ can trap creatures inside.
 
 #### Illus
 
@@ -1042,7 +1042,7 @@ Trans
 
 **Enlarge Person, Mass:** Enlarges several creatures.
 
-**Mnemonic Enhancer <sup>F</sup>:**_Wizard only._ Prepares extra spells or retains one just cast.
+**Mnemonic Enhancer <sup>F</sup>:** _Wizard only._ Prepares extra spells or retains one just cast.
 
 **Polymorph:** Gives one willing subject a new form.
 
@@ -1106,7 +1106,7 @@ Trans
 
 **Sending:** Delivers short message anywhere, instantly.
 
-**Wall of Force:**Wall is immune to damage.
+**Wall of Force:** Wall is immune to damage.
 
 #### Illus
 
@@ -1154,7 +1154,7 @@ Trans
 
 #### Univ
 
-**Permanency <sup>X</sup>:**Makes certain spells permanent.
+**Permanency <sup>X</sup>:** Makes certain spells permanent.
 
 ### 6th-Level Sorcerer/Wizard Spells
 
@@ -1242,7 +1242,7 @@ Trans
 
 **Control Water:** Raises or lowers bodies of water.
 
-**Disintegrate:**Makes one creature or object vanish.
+**Disintegrate:** Makes one creature or object vanish.
 
 **Eagle’s Splendor, Mass:** As _eagle’s splendor_, affects one subject/level.
 
@@ -1250,7 +1250,7 @@ Trans
 
 **Fox’s Cunning, Mass:** As _fox’s cunning_, affects one subject/ level.
 
-**Mage’s Lucubration:**_Wizard only._ Recalls spell of 5th level or lower.
+**Mage’s Lucubration:** _Wizard only._ Recalls spell of 5th level or lower.
 
 **Move Earth:** Digs trenches and build hills.
 

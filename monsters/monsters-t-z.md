@@ -352,17 +352,17 @@ A vampire uses all the base creature’s statistics and special abilities except
 
 **Special Attacks:** A vampire retains all the special attacks of the base creature and gains those described below. Saves have a DC of 10 + 1/2 vampire’s HD + vampire’s Cha modifier unless noted otherwise.
 
-**_Blood Drain (Ex):_**A vampire can suck blood from a living victim with its fangs by making a successful grapple check. If it pins the foe, it drains blood, dealing 1d4 points of Constitution drain each round the pin is maintained. On each such successful attack, the vampire gains 5 temporary hit points.
+**_Blood Drain (Ex):_** A vampire can suck blood from a living victim with its fangs by making a successful grapple check. If it pins the foe, it drains blood, dealing 1d4 points of Constitution drain each round the pin is maintained. On each such successful attack, the vampire gains 5 temporary hit points.
 
-**_Children of the Night (Su):_**Vampires command the lesser creatures of the world and once per day can call forth 1d6+1 rat swarms, 1d4+1 bat swarms, or a pack of 3d6 wolves as a standard action. (If the base creature is not terrestrial, this power might summon other creatures of similar power.) These creatures arrive in 2d6 rounds and serve the vampire for up to 1 hour.
+**_Children of the Night (Su):_** Vampires command the lesser creatures of the world and once per day can call forth 1d6+1 rat swarms, 1d4+1 bat swarms, or a pack of 3d6 wolves as a standard action. (If the base creature is not terrestrial, this power might summon other creatures of similar power.) These creatures arrive in 2d6 rounds and serve the vampire for up to 1 hour.
 
-**_Dominate (Su):_**A vampire can crush an opponent’s will just by looking onto his or her eyes. This is similar to a gaze attack, except that the vampire must use a standard action, and those merely looking at it are not affected. Anyone the vampire targets must succeed on a Will save or fall instantly under the vampire’s influence as though by a _dominate person_ spell (caster level 12th). The ability has a range of 30 feet.
+**_Dominate (Su):_** A vampire can crush an opponent’s will just by looking onto his or her eyes. This is similar to a gaze attack, except that the vampire must use a standard action, and those merely looking at it are not affected. Anyone the vampire targets must succeed on a Will save or fall instantly under the vampire’s influence as though by a _dominate person_ spell (caster level 12th). The ability has a range of 30 feet.
 
-**_Create Spawn (Su):_**A humanoid or monstrous humanoid slain by a vampire’s energy drain rises as a vampire spawn (see the Vampire Spawn entry) 1d4 days after burial.
+**_Create Spawn (Su):_** A humanoid or monstrous humanoid slain by a vampire’s energy drain rises as a vampire spawn (see the Vampire Spawn entry) 1d4 days after burial.
 
 If the vampire instead drains the victim’s Constitution to 0 or lower, the victim returns as a spawn if it had 4 or less HD and as a vampire if it had 5 or more HD. In either case, the new vampire or spawn is under the command of the vampire that created it and remains enslaved until its master’s destruction. At any given time a vampire may have enslaved spawn totaling no more than twice its own Hit Dice; any spawn it creates that would exceed this limit are created as free-willed vampires or vampire spawn. A vampire that is enslaved may create and enslave spawn of its own, so a master vampire can control a number of lesser vampires in this fashion. A vampire may voluntarily free an enslaved spawn in order to enslave a new spawn, but once freed, a vampire or vampire spawn cannot be enslaved again.
 
-**_Energy Drain (Su):_**Living creatures hit by a vampire’s slam attack (or any other natural weapon the vampire might possess) gain two negative levels. For each negative level bestowed, the vampire gains 5 temporary hit points. A vampire can use its energy drain ability once per round.
+**_Energy Drain (Su):_** Living creatures hit by a vampire’s slam attack (or any other natural weapon the vampire might possess) gain two negative levels. For each negative level bestowed, the vampire gains 5 temporary hit points. A vampire can use its energy drain ability once per round.
 
 **Special Qualities:** A vampire retains all the special qualities of the base creature and gains those described below.
 

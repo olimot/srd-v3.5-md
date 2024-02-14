@@ -222,7 +222,7 @@ The costs listed for mechanical traps are market prices; those for magic traps a
 
 **Ceiling Pendulum:** CR 3; mechanical; timed trigger; automatic reset; Atk +15 melee (1d12+8/x3, greataxe); Search DC 15; Disable Device DC 27. _Market Price:_ 14,100 gp.
 
-**_Fire Trap:_**CR 3; spell; spell trigger; no reset; spell effect (_fire trap,_ 3rd-level druid, 1d4+3 fire, DC 13 Reflex save half damage); Search DC 27; Disable Device DC 27. _Cost:_ 85 gp to hire NPC spellcaster.
+**_Fire Trap:_** CR 3; spell; spell trigger; no reset; spell effect (_fire trap,_ 3rd-level druid, 1d4+3 fire, DC 13 Reflex save half damage); Search DC 27; Disable Device DC 27. _Cost:_ 85 gp to hire NPC spellcaster.
 
 **Extended _Bane_ Trap:** CR 3; magic device; proximity trigger _(detect good);_ automatic reset; spell effect (extended _bane,_ 3rd-level cleric, DC 13 Will save negates); Search DC 27; Disable Device DC 27. _Cost:_ 3,500 gp, 280 XP.
 

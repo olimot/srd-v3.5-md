@@ -885,7 +885,7 @@ Enchantment (Compulsion) \[Fear, Mind-Affecting\]
 
 **Duration:** 1 min./level
 
-**Saving Throw:**Will negates
+**Saving Throw:** Will negates
 
 **Spell Resistance:** Yes
 
@@ -961,7 +961,7 @@ Transmutation
 
 **Duration:** 1 min./level
 
-**Saving Throw:**Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
 **Spell Resistance:** Yes
 
@@ -1381,7 +1381,7 @@ Transmutation
 
 **Duration:** 1 min./level
 
-**Saving Throw:**Will negates (harmless)
+**Saving Throw:** Will negates (harmless)
 
 **Spell Resistance:** Yes (harmless)
 

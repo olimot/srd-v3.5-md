@@ -44,7 +44,7 @@ This ability functions while the paladin is conscious, but not if she is unconsc
 
 **Divine Health (Ex):** At 3rd level, a paladin gains immunity to all diseases, including supernatural and magical diseases.
 
-**Turn Undead (Su):**When a paladin reaches 4th level, she gains the supernatural ability to turn undead. She may use this ability a number of times per day equal to 3 + her Charisma modifier. She turns undead as a cleric of three levels lower would.
+**Turn Undead (Su):** When a paladin reaches 4th level, she gains the supernatural ability to turn undead. She may use this ability a number of times per day equal to 3 + her Charisma modifier. She turns undead as a cleric of three levels lower would.
 
 **Spells:** Beginning at 4th level, a paladin gains the ability to cast a small number of divine spells, which are drawn from the paladin spell list. A paladin must choose and prepare her spells in advance.
 

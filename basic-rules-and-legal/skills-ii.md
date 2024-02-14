@@ -211,7 +211,7 @@ Noisy surfaces, such as bogs or undergrowth, are tough to move silently across. 
 
 <table data-debug="no-caption" class="full-width-table"><tbody><tr><th>Surface</th><th>Check Modifier</th></tr><tr><td>Noisy (scree, shallow or deep bog, undergrowth, dense rubble)</td><td>–2</td></tr><tr><td>Very noisy (dense undergrowth, deep snow)</td><td>–5</td></tr></tbody></table>
 
-**Action:**None. A Move Silently check is included in your movement or other activity, so it is part of another action.
+**Action:** None. A Move Silently check is included in your movement or other activity, so it is part of another action.
 
 **Special:** The master of a cat familiar gains a +3 bonus on Move Silently checks.
 
