@@ -1,0 +1,251 @@
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
+
+# CARRYING, MOVEMENT, & EXPLORATION
+
+## Table of Contents
+
+- [Carrying Capacity](#carrying-capacity)
+  - [Armor and Encumbrance for Other Base Speeds](#armor-and-encumbrance-for-other-base-speeds)
+- [Movement](#movement)
+  - [Tactical Movement](#tactical-movement)
+  - [Local Movement](#local-movement)
+  - [Overland Movement](#overland-movement)
+  - [Moving in Three Dimensions](#moving-in-three-dimensions)
+    - [Tactical Aerial Movement](#tactical-aerial-movement)
+  - [Evasion and Pursuit](#evasion-and-pursuit)
+  - [Moving Around in Squares](#moving-around-in-squares)
+- [Exploration](#exploration)
+  - [Vision and Light](#vision-and-light)
+  - [Breaking and Entering](#breaking-and-entering)
+    - [Smashing an Object](#smashing-an-object)
+    - [Breaking Items](#breaking-items)
+
+## Carrying Capacity
+
+Encumbrance rules determine how much a character’s armor and equipment slow him or her down. Encumbrance comes in two parts: encumbrance by armor and encumbrance by total weight.
+
+**Encumbrance by Armor:** A character’s armor defines his or her maximum Dexterity bonus to AC, armor check penalty, speed, and running speed. Unless your character is weak or carrying a lot of gear, that’s all you need to know. The extra gear your character carries won’t slow him or her down any more than the armor already does.
+
+If your character is weak or carrying a lot of gear, however, then you’ll need to calculate encumbrance by weight. Doing so is most important when your character is trying to carry some heavy object.
+
+**Weight:** If you want to determine whether your character’s gear is heavy enough to slow him or her down more than the armor already does, total the weight of all the character’s items, including armor, weapons, and gear. Compare this total to the character’s Strength on Table: Carrying Capacity. Depending on how the weight compares to the character’s carrying capacity, he or she may be carrying a light, medium, or heavy load. Like armor, a character’s load affects his or her maximum Dexterity bonus to AC, carries a check penalty (which works like an armor check penalty), reduces the character’s speed, and affects how fast the character can run, as shown on Table: Carrying Loads. A medium or heavy load counts as medium or heavy armor for the purpose of abilities or skills that are restricted by armor. Carrying a light load does not encumber a character.
+
+If your character is wearing armor, use the worse figure (from armor or from load) for each category. Do not stack the penalties.
+
+**Lifting and Dragging:** A character can lift as much as his or her maximum load over his or her head.
+
+A character can lift as much as double his or her maximum load off the ground, but he or she can only stagger around with it. While overloaded in this way, the character loses any Dexterity bonus to AC and can move only 5 feet per round (as a full-round action).
+
+A character can generally push or drag along the ground as much as five times his or her maximum load. Favorable conditions can double these numbers, and bad circumstances can reduce them to one-half or less.
+
+**Bigger and Smaller Creatures:** The figures on Table: Carrying Capacity are for Medium bipedal creatures. A larger bipedal creature can carry more weight depending on its size category, as follows: Large x2, Huge x4, Gargantuan x8, Colossal x16. A smaller creature can carry less weight depending on its size category, as follows: Small x3/4, Tiny x1/2, Diminutive x1/4, Fine x1/8.
+
+Quadrupeds can carry heavier loads than characters can. Instead of the multipliers given above, multiply the value corresponding to the creature’s Strength score from Table: Carrying Capacity by the appropriate modifier, as follows: Fine x1/4, Diminutive x1/2, Tiny x3/4, Small x1, Medium x1-1/2, Large x3, Huge x6, Gargantuan x12, Colossal x24.
+
+**Tremendous Strength:** For Strength scores not shown on Table: Carrying Capacity, find the Strength score between 20 and 29 that has the same number in the “ones” digit as the creature’s Strength score does and multiply the numbers in that for by 4 for every ten points the creature’s strength is above the score for that row.
+
+<table class="full-width-table"><caption>Table: Carrying Capacity</caption><tbody><tr><th>Strength Score</th><th>Light Load</th><th>Medium Load</th><th>Heavy Load</th></tr><tr><td>1</td><td>3 lb. or less</td><td>4–6 lb.</td><td>7–10 lb.</td></tr><tr><td>2</td><td>6 lb. or less</td><td>7–13 lb.</td><td>14–20 lb.</td></tr><tr><td>3</td><td>10 lb. or less</td><td>11–20 lb.</td><td>21–30 lb.</td></tr><tr><td>4</td><td>13 lb. or less</td><td>14–26 lb.</td><td>27–40 lb.</td></tr><tr><td>5</td><td>16 lb. or less</td><td>17–33 lb.</td><td>34–50 lb.</td></tr><tr><td>6</td><td>20 lb. or less</td><td>21–40 lb.</td><td>41–60 lb.</td></tr><tr><td>7</td><td>23 lb. or less</td><td>24–46 lb.</td><td>47–70 lb.</td></tr><tr><td>8</td><td>26 lb. or less</td><td>27–53 lb.</td><td>54–80 lb.</td></tr><tr><td>9</td><td>30 lb. or less</td><td>31–60 lb.</td><td>61–90 lb.</td></tr><tr><td>10</td><td>33 lb. or less</td><td>34–66 lb.</td><td>67–100 lb.</td></tr><tr><td>11</td><td>38 lb. or less</td><td>39–76 lb.</td><td>77–115 lb.</td></tr><tr><td>12</td><td>43 lb. or less</td><td>44–86 lb.</td><td>87–130 lb.</td></tr><tr><td>13</td><td>50 lb. or less</td><td>51–100 lb.</td><td>101–150 lb.</td></tr><tr><td>14</td><td>58 lb. or less</td><td>59–116 lb.</td><td>117–175 lb.</td></tr><tr><td>15</td><td>66 lb. or less</td><td>67–133 lb.</td><td>134–200 lb.</td></tr><tr><td>16</td><td>76 lb. or less</td><td>77–153 lb.</td><td>154–230 lb.</td></tr><tr><td>17</td><td>86 lb. or less</td><td>87–173 lb.</td><td>174–260 lb.</td></tr><tr><td>18</td><td>100 lb. or less</td><td>101–200 lb.</td><td>201–300 lb.</td></tr><tr><td>19</td><td>116 lb. or less</td><td>117–233 lb.</td><td>234–350 lb.</td></tr><tr><td>20</td><td>133 lb. or less</td><td>134–266 lb.</td><td>267–400 lb.</td></tr><tr><td>21</td><td>153 lb. or less</td><td>154–306 lb.</td><td>307–460 lb.</td></tr><tr><td>22</td><td>173 lb. or less</td><td>174–346 lb.</td><td>347–520 lb.</td></tr><tr><td>23</td><td>200 lb. or less</td><td>201–400 lb.</td><td>401–600 lb.</td></tr><tr><td>24</td><td>233 lb. or less</td><td>234–466 lb.</td><td>467–700 lb.</td></tr><tr><td>25</td><td>266 lb. or less</td><td>267–533 lb.</td><td>534–800 lb.</td></tr><tr><td>26</td><td>306 lb. or less</td><td>307–613 lb.</td><td>614–920 lb.</td></tr><tr><td>27</td><td>346 lb. or less</td><td>347–693 lb.</td><td>694–1,040 lb.</td></tr><tr><td>28</td><td>400 lb. or less</td><td>401–800 lb.</td><td>801–1,200 lb.</td></tr><tr><td>29</td><td>466 lb. or less</td><td>467–933 lb.</td><td>934–1,400 lb.</td></tr><tr><td>+10</td><td>x4</td><td>x4</td><td>x4</td></tr></tbody></table>
+
+<table class="full-width-table"><caption>Table: Carrying Loads</caption><tbody><tr><td></td><td></td><td></td><th colspan="3" class="middle-line">Speed</th></tr><tr><th>Load</th><th>Max Dex</th><th>Check Penalty</th><th>(30 ft.)</th><th>(20 ft.)</th><th>Run</th></tr><tr><td>Medium</td><td>+3</td><td>–3</td><td>20 ft.</td><td>15 ft.</td><td>x4</td></tr><tr><td>Heavy</td><td>+1</td><td>–6</td><td>20 ft.</td><td>15 ft.</td><td>x3</td></tr></tbody></table>
+
+### Armor and Encumbrance for Other Base Speeds
+
+The table below provides reduced speed figures for all base speeds from 20 feet to 100 feet (in 10-foot increments).
+
+<table data-debug="no-caption" class="half-width-table"><tbody><tr><th>Base Speed</th><th>Reduced Speed</th><th>Base Speed</th><th>Reduced Speed</th></tr><tr><td>20 ft.</td><td>15 ft.</td><td>70 ft.</td><td>50 ft.</td></tr><tr><td>30 ft.</td><td>20 ft.</td><td>80 ft.</td><td>55 ft.</td></tr><tr><td>40 ft.</td><td>30 ft.</td><td>90 ft.</td><td>60 ft.</td></tr><tr><td>50 ft.</td><td>35 ft.</td><td>100 ft.</td><td>70 ft.</td></tr><tr><td>60 ft.</td><td>40 ft.</td><td></td><td></td></tr></tbody></table>
+
+## Movement
+
+There are three movement scales, as follows.
+
+- Tactical, for combat, measured in feet (or squares) per round.
+- Local, for exploring an area, measured in feet per minute.
+- Overland, for getting from place to place, measured in miles per hour or miles per day.
+
+**Modes of Movement:** While moving at the different movement scales, creatures generally walk, hustle, or run.
+
+_Walk:_ A walk represents unhurried but purposeful movement at 3 miles per hour for an unencumbered human.
+
+_Hustle:_ A hustle is a jog at about 6 miles per hour for an unencumbered human. A character moving his or her speed twice in a single round, or moving that speed in the same round that he or she performs a standard action or another move action is hustling when he or she moves.
+
+_Run (x3):_ Moving three times speed is a running pace for a character in heavy armor. It represents about 9 miles per hour for a human in full plate.
+
+_Run (x4):_ Moving four times speed is a running pace for a character in light, medium, or no armor. It represents about 12 miles per hour for an unencumbered human, or 8 miles per hour for a human in chainmail.
+
+### Tactical Movement
+
+Use tactical movement for combat. Characters generally don’t walk during combat—they hustle or run. A character who moves his or her speed and takes some action is hustling for about half the round and doing something else the other half.
+
+**Hampered Movement:** Difficult terrain, obstacles, or poor visibility can hamper movement. When movement is hampered, each square moved into usually counts as two squares, effectively reducing the distance that a character can cover in a move.
+
+If more than one condition applies, multiply together all additional costs that apply. (This is a specific exception to the normal rule for doubling)
+
+In some situations, your movement may be so hampered that you don’t have sufficient speed even to move 5 feet (1 square). In such a case, you may use a full-round action to move 5 feet (1 square) in any direction, even diagonally. Even though this looks like a 5-foot step, it’s not, and thus it provokes attacks of opportunity normally. (You can’t take advantage of this rule to move through impassable terrain or to move when all movement is prohibited to you.)
+
+You can’t run or charge through any square that would hamper your movement.
+
+### Local Movement
+
+Characters exploring an area use local movement, measured in feet per minute.
+
+**Walk:** A character can walk without a problem on the local scale.
+
+**Hustle:** A character can hustle without a problem on the local scale. See Overland Movement, below, for movement measured in miles per hour.
+
+**Run:** A character with a Constitution score of 9 or higher can run for a minute without a problem. Generally, a character can run for a minute or two before having to rest for a minute
+
+### Overland Movement
+
+Characters covering long distances cross-country use overland movement. Overland movement is measured in miles per hour or miles per day. A day represents 8 hours of actual travel time. For rowed watercraft, a day represents 10 hours of rowing. For a sailing ship, it represents 24 hours.
+
+**Walk:** A character can walk 8 hours in a day of travel without a problem. Walking for longer than that can wear him or her out (see Forced March, below).
+
+**Hustle:** A character can hustle for 1 hour without a problem. Hustling for a second hour in between sleep cycles deals 1 point of nonlethal damage, and each additional hour deals twice the damage taken during the previous hour of hustling. A character who takes any nonlethal damage from hustling becomes fatigued.
+
+A fatigued character can’t run or charge and takes a penalty of –2 to Strength and Dexterity. Eliminating the nonlethal damage also eliminates the fatigue.
+
+**Run:** A character can’t run for an extended period of time.
+
+Attempts to run and rest in cycles effectively work out to a hustle.
+
+**Terrain:** The terrain through which a character travels affects how much distance he or she can cover in an hour or a day (see Table: Terrain and Overland Movement). A highway is a straight, major, paved road. A road is typically a dirt track. A trail is like a road, except that it allows only single-file travel and does not benefit a party traveling with vehicles. Trackless terrain is a wild area with no paths.
+
+**Forced March:** In a day of normal walking, a character walks for 8 hours. The rest of the daylight time is spent making and breaking camp, resting, and eating.
+
+A character can walk for more than 8 hours in a day by making a forced march. For each hour of marching beyond 8 hours, a Constitution check (DC 10, +2 per extra hour) is required. If the check fails, the character takes 1d6 points of nonlethal damage. A character who takes any nonlethal damage from a forced march becomes fatigued. Eliminating the nonlethal damage also eliminates the fatigue. It’s possible for a character to march into unconsciousness by pushing himself too hard.
+
+**Mounted Movement:** A mount bearing a rider can move at a hustle. The damage it takes when doing so, however, is lethal damage, not nonlethal damage. The creature can also be ridden in a forced march, but its Constitution checks automatically fail, and, again, the damage it takes is lethal damage. Mounts also become fatigued when they take any damage from hustling or forced marches.
+
+See Table: Mounts and Vehicles for mounted speeds and speeds for vehicles pulled by draft animals.
+
+**Waterborne Movement:** See Table: Mounts and Vehicles for speeds for water vehicles.
+
+<table class="full-width-table"><caption>Table: Movement and Distance</caption><tbody><tr><td></td><th colspan="4" class="middle-line">Speed</th></tr><tr><td></td><td>15 feet</td><td>20 feet</td><td>30 feet</td><td>40 feet</td></tr><tr><th>One Round (Tactical)<sup>1</sup></th><td></td><td></td><td></td><td></td></tr><tr><td>Walk</td><td>15 ft.</td><td>20 ft.</td><td>30 ft.</td><td>40 ft.</td></tr><tr><td>Hustle</td><td>30 ft.</td><td>40 ft.</td><td>60 ft.</td><td>80 ft.</td></tr><tr><td>Run (x3)</td><td>45 ft.</td><td>60 ft.</td><td>90 ft.</td><td>120 ft.</td></tr><tr><td>Run (x4)</td><td>60 ft.</td><td>80 ft.</td><td>120 ft.</td><td>160 ft.</td></tr><tr><th>One Minute (Local)</th><td></td><td></td><td></td><td></td></tr><tr><td>Walk</td><td>150 ft.</td><td>200 ft.</td><td>300 ft.</td><td>400 ft.</td></tr><tr><td>Hustle</td><td>300 ft.</td><td>400 ft.</td><td>600 ft.</td><td>800 ft.</td></tr><tr><td>Run (x3)</td><td>450 ft.</td><td>600 ft.</td><td>900 ft.</td><td>1,200 ft.</td></tr><tr><td>Run (x4)</td><td>600 ft.</td><td>800 ft.</td><td>1,200 ft.</td><td>1,600 ft.</td></tr><tr><th>One Hour (Overland)</th><td></td><td></td><td></td><td></td></tr><tr><td>Walk</td><td>1-1/2 miles</td><td>2 miles</td><td>3 miles</td><td>4 miles</td></tr><tr><td>Hustle</td><td>3 miles</td><td>4 miles</td><td>6 miles</td><td>8 miles</td></tr><tr><td>Run</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><th>One Day (Overland)</th><td></td><td></td><td></td><td></td></tr><tr><td>Walk</td><td>12 miles</td><td>16 miles</td><td>24 miles</td><td>32 miles</td></tr><tr><td>Hustle</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>Run</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td colspan="5">1 Tactical movement is often measured in squares on the battle grid (1 square = 5 feet) rather than feet.</td></tr></tbody></table>
+
+<table class="half-width-table"><caption>Table: Hampered Movement</caption><tbody><tr><th>Condition</th><th>Additional Movement Cost</th></tr><tr><td>Difficult terrain</td><td>x2</td></tr><tr><td>Obstacle<sup>1</sup></td><td>x2</td></tr><tr><td>Poor visibility</td><td>x2</td></tr><tr><td>Impassable</td><td>—</td></tr><tr><td colspan="2">1 May require a skill check</td></tr></tbody></table>
+
+<table class="full-width-table"><caption>Table: Terrain and Overland Movement</caption><tbody><tr><th>Terrain</th><th>Highway</th><th>Road or Trail</th><th>Trackless</th></tr><tr><td>Desert, sandy</td><td>x1</td><td>x1/2</td><td>x1/2</td></tr><tr><td>Forest</td><td>x1</td><td>x1</td><td>x1/2</td></tr><tr><td>Hills</td><td>x1</td><td>x3/4</td><td>x1/2</td></tr><tr><td>Jungle</td><td>x1</td><td>x3/4</td><td>x1/4</td></tr><tr><td>Moor</td><td>x1</td><td>x1</td><td>x3/4</td></tr><tr><td>Mountains</td><td>x3/4</td><td>x3/4</td><td>x1/2</td></tr><tr><td>Plains</td><td>x1</td><td>x1</td><td>x3/4</td></tr><tr><td>Swamp</td><td>x1</td><td>x3/4</td><td>x1/2</td></tr><tr><td>Tundra, frozen</td><td>x1</td><td>x3/4</td><td>x3/4</td></tr></tbody></table>
+
+<table class="full-width-table"><caption>Table: Mounts and Vehicles</caption><tbody><tr><th>Mount/Vehicle</th><th>Per Hour</th><th>Per Day</th></tr><tr><td>Mount (carrying load)</td><td></td><td></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;Light horse or light warhorse</td><td>6 miles</td><td>48 miles</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;Light horse (151–450 lb.)<sup>1</sup></td><td>4 miles</td><td>32 miles</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;Light warhorse (231–690 lb.)<sup>1</sup></td><td>4 miles</td><td>32 miles</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;Heavy horse or heavy warhorse</td><td>5 miles</td><td>40 miles</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;Heavy horse (201–600 lb.)<sup>1</sup></td><td>3-1/2 miles</td><td>28 miles</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;Heavy warhorse (301–900 lb.)<sup>1</sup></td><td>3-1/2 miles</td><td>28 miles</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;Pony or warpony</td><td>4 miles</td><td>32 miles</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;Pony (76–225 lb.)<sup>1</sup></td><td>3 miles</td><td>24 miles</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;Warpony (101–300 lb.)<sup>1</sup></td><td>3 miles</td><td>24 miles</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;Donkey or mule</td><td>3 miles</td><td>24 miles</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;Donkey (51–150 lb.)<sup>1</sup></td><td>2 miles</td><td>16 miles</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;Mule (231–690 lb.)<sup>1</sup></td><td>2 miles</td><td>16 miles</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;Dog, riding</td><td>4 miles</td><td>32 miles</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;Dog, riding (101–300 lb.)<sup>1</sup></td><td>3 miles</td><td>24 miles</td></tr><tr><td>Cart or wagon</td><td>2 miles</td><td>16 miles</td></tr><tr><td>Ship</td><td></td><td></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;Raft or barge (poled or towed)<sup>2</sup></td><td>1/2 mile</td><td>5 miles</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;Keelboat (rowed)<sup>2</sup></td><td>1 mile</td><td>10 miles</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;Rowboat (rowed)<sup>2</sup></td><td>1-1/2 miles</td><td>15 miles</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;Sailing ship (sailed)</td><td>2 miles</td><td>48 miles</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;Warship (sailed and rowed)</td><td>2-1/2 miles</td><td>60 miles</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;Longship (sailed and rowed)</td><td>3 miles</td><td>72 miles</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;Galley (rowed and sailed)</td><td>4 miles</td><td>96 miles</td></tr><tr><td colspan="3">1 Quadrupeds, such as horses, can carry heavier loads than characters can. See Carrying Capacity, above, for more information.</td></tr><tr><td colspan="3">2 Rafts, barges, keelboats, and rowboats are used on lakes and rivers.<br>If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. In addition to 10 hours of being rowed, the vehicle can also float an additional 14 hours, if someone can guide it, so add an additional 42 miles to the daily distance traveled. These vehicles can’t be rowed against any significant current, but they can be pulled upstream by draft animals on the shores.</td></tr></tbody></table>
+
+### Moving in Three Dimensions
+
+#### Tactical Aerial Movement
+
+Once movement becomes three-dimensional and involves turning in midair and maintaining a minimum velocity to stay aloft, it gets more complicated. Most flying creatures have to slow down at least a little to make a turn, and many are limited to fairly wide turns and must maintain a minimum forward speed. Each flying creature has a maneuverability, as shown on Table: Maneuverability. The entries on the table are defined below.
+
+_Minimum Forward Speed:_ If a flying creature fails to maintain its minimum forward speed, it must land at the end of its movement. If it is too high above the ground to land, it falls straight down, descending 150 feet in the first round of falling. If this distance brings it to the ground, it takes falling damage. If the fall doesn’t bring the creature to the ground, it must spend its next turn recovering from the stall. It must succeed on a DC 20 Reflex save to recover. Otherwise it falls another 300 feet. If it hits the ground, it takes falling damage. Otherwise, it has another chance to recover on its next turn.
+
+_Hover:_ The ability to stay in one place while airborne.
+
+_Move Backward:_ The ability to move backward without turning around.
+
+_Reverse:_ A creature with good maneuverability uses up 5 feet of its speed to start flying backward.
+
+_Turn:_ How much the creature can turn after covering the stated distance.
+
+_Turn in Place:_ A creature with good or average maneuverability can use some of its speed to turn in place.
+
+_Maximum Turn:_ How much the creature can turn in any one space.
+
+_Up Angle:_ The angle at which the creature can climb.
+
+_Up Speed:_ How fast the creature can climb.
+
+_Down Angle:_ The angle at which the creature can descend.
+
+_Down Speed:_ A flying creature can fly down at twice its normal flying speed.
+
+_Between Down and Up:_ An average, poor, or clumsy flier must fly level for a minimum distance after descending and before climbing. Any flier can begin descending after a climb without an intervening distance of level flight.
+
+<table class="full-width-table"><caption>Table: Maneuverability</caption><tbody><tr><td></td><th colspan="5">Maneuverability</th></tr><tr><td></td><th>Perfect</th><th>Good</th><th>Average</th><th>Poor</th><th>Clumsy</th></tr><tr><td>Minimum forward speed</td><td>None</td><td>None</td><td>Half</td><td>Half</td><td>Half</td></tr><tr><td>Hover</td><td>Yes</td><td>Yes</td><td>No</td><td>No</td><td>No</td></tr><tr><td>Move backward</td><td>Yes</td><td>Yes</td><td>No</td><td>No</td><td>No</td></tr><tr><td>Reverse</td><td>Free</td><td>–5 ft.</td><td>No</td><td>No</td><td>No</td></tr><tr><td>Turn</td><td>Any</td><td>90º/5 ft.</td><td>45º/5 ft.</td><td>45º/5 ft.</td><td>45º/10 ft.</td></tr><tr><td>Turn in place</td><td>Any</td><td>+90º/–5 ft.</td><td>+45º/–5 ft.</td><td>No</td><td>No</td></tr><tr><td>Maximum turn</td><td>Any</td><td>Any</td><td>90º</td><td>45º</td><td>45º</td></tr><tr><td>Up angle</td><td>Any</td><td>Any</td><td>60º</td><td>45º</td><td>45º</td></tr><tr><td>Up speed</td><td>Full</td><td>Half</td><td>Half</td><td>Half</td><td>Half</td></tr><tr><td>Down angle</td><td>Any</td><td>Any</td><td>Any</td><td>45º</td><td>45º</td></tr><tr><td>Down speed</td><td>Double</td><td>Double</td><td>Double</td><td>Double</td><td>Double</td></tr><tr><td>Between down and up</td><td>0</td><td>0</td><td>5 ft.</td><td>10 ft.</td><td>20 ft.</td></tr></tbody></table>
+
+### Evasion and Pursuit
+
+In round-by-round movement, simply counting off squares, it’s impossible for a slow character to get away from a determined fast character without mitigating circumstances. Likewise, it’s no problem for a fast character to get away from a slower one.
+
+When the speeds of the two concerned characters are equal, there’s a simple way to resolve a chase: If one creature is pursuing another, both are moving at the same speed, and the chase continues for at least a few rounds, have them make opposed Dexterity checks to see who is the faster over those rounds. If the creature being chased wins, it escapes. If the pursuer wins, it catches the fleeing creature.
+
+Sometimes a chase occurs overland and could last all day, with the two sides only occasionally getting glimpses of each other at a distance. In the case of a long chase, an opposed Constitution check made by all parties determines which can keep pace the longest. If the creature being chased rolls the highest, it gets away. If not, the chaser runs down its prey, outlasting it with stamina.
+
+### Moving Around in Squares
+
+In general, when the characters aren’t engaged in round-by-round combat, they should be able to move anywhere and in any manner that you can imagine real people could. A 5-foot square, for instance, can hold several characters; they just can’t all fight effectively in that small space. The rules for movement are important for combat, but outside combat they can impose unnecessary hindrances on character activities.
+
+## Exploration
+
+### Vision and Light
+
+Dwarves and half-orcs have darkvision, but everyone else needs light to see by. See Table: Light Sources and Illumination for the radius that a light source illuminates and how long it lasts.
+
+In an area of bright light, all characters can see clearly. A creature can’t hide in an area of bright light unless it is invisible or has cover.
+
+In an area of shadowy illumination, a character can see dimly. Creatures within this area have concealment relative to that character. A creature in an area of shadowy illumination can make a Hide check to conceal itself.
+
+In areas of darkness, creatures without darkvision are effectively blinded. In addition to the obvious effects, a blinded creature has a 50% miss chance in combat (all opponents have total concealment), loses any Dexterity bonus to AC, takes a –2 penalty to AC, moves at half speed, and takes a –4 penalty on Search checks and most Strength and Dexterity-based skill checks.
+
+Characters with low-light vision (elves, gnomes, and half-elves) can see objects twice as far away as the given radius. Double the effective radius of bright light and of shadowy illumination for such characters.
+
+Characters with darkvision (dwarves and half-orcs) can see lit areas normally as well as dark areas within 60 feet. A creature can’t hide within 60 feet of a character with darkvision unless it is invisible or has cover.
+
+<table class="full-width-table"><caption>Table: Light Sources and Illumination</caption><tbody><tr><th>Object</th><th>Bright</th><th>Shadowy</th><th>Duration</th></tr><tr><td>Candle</td><td>n/a<sup>1</sup></td><td>5 ft.</td><td>1 hr.</td></tr><tr><td>Everburning torch</td><td>20 ft.</td><td>40 ft.</td><td>Permanent</td></tr><tr><td>Lamp, common</td><td>15 ft.</td><td>30 ft.</td><td>6 hr./pint</td></tr><tr><td>Lantern, bullseye<sup>2</sup></td><td>60-ft. cone</td><td>120-ft. cone</td><td>6 hr./pint</td></tr><tr><td>Lantern, hooded</td><td>30 ft.</td><td>60 ft.</td><td>6 hr./pint</td></tr><tr><td>Sunrod</td><td>30 ft.</td><td>60 ft.</td><td>6 hr.</td></tr><tr><td>Torch</td><td>20 ft.</td><td>40 ft.</td><td>1 hr.</td></tr><tr><th>Spell</th><th>Bright</th><th>Shadowy</th><th>Duration</th></tr><tr><td><i>Continual flame</i></td><td>20 ft.</td><td>40 ft.</td><td>Permanent</td></tr><tr><td><i>Dancing lights</i> (torches)</td><td>20 ft. (each)</td><td>40 ft. (each)</td><td>1 min.</td></tr><tr><td><i>Daylight</i></td><td>60 ft.</td><td>120 ft.</td><td>30 min.</td></tr><tr><td><i>Light</i></td><td>20 ft.</td><td>40 ft.</td><td>10 min.</td></tr><tr><td colspan="4">1 A candle does not provide bright illumination, only shadowy illumination.</td></tr><tr><td colspan="4">2 A bullseye lantern illuminates a cone, not a radius.</td></tr></tbody></table>
+
+### Breaking and Entering
+
+When attempting to break an object, you have two choices: smash it with a weapon or break it with sheer strength.
+
+#### Smashing an Object
+
+Smashing a weapon or shield with a slashing or bludgeoning weapon is accomplished by the sunder special attack. Smashing an object is a lot like sundering a weapon or shield, except that your attack roll is opposed by the object’s AC. Generally, you can smash an object only with a bludgeoning or slashing weapon.
+
+**Armor Class:** Objects are easier to hit than creatures because they usually don’t move, but many are tough enough to shrug off some damage from each blow. An object’s Armor Class is equal to 10 + its size modifier + its Dexterity modifier. An inanimate object has not only a Dexterity of 0 (–5 penalty to AC), but also an additional –2 penalty to its AC. Furthermore, if you take a full-round action to line up a shot, you get an automatic hit with a melee weapon and a +5 bonus on attack rolls with a ranged weapon.
+
+**Hardness:** Each object has hardness—a number that represents how well it resists damage. Whenever an object takes damage, subtract its hardness from the damage. Only damage in excess of its hardness is deducted from the object’s hit points (see Table: Common Armor, Weapon, and Shield Hardness and Hit Points; Table: Substance Hardness and Hit Points; and Table: Object Hardness and Hit Points).
+
+**Hit Points:** An object’s hit point total depends on what it is made of and how big it is (see Table: Common Armor, Weapon, and Shield Hardness and Hit Points; Table: Substance Hardness and Hit Points; and Table: Object Hardness and Hit Points). When an object’s hit points reach 0, it’s ruined.
+
+Very large objects have separate hit point totals for different sections.
+
+_Energy Attacks:_ Acid and sonic attacks deal damage to most objects just as they do to creatures; roll damage and apply it normally after a successful hit. Electricity and fire attacks deal half damage to most objects; divide the damage dealt by 2 before applying the hardness. Cold attacks deal one-quarter damage to most objects; divide the damage dealt by 4 before applying the hardness.
+
+_Ranged Weapon Damage:_ Objects take half damage from ranged weapons (unless the weapon is a siege engine or something similar). Divide the damage dealt by 2 before applying the object’s hardness.
+
+_Ineffective Weapons:_ Certain weapons just can’t effectively deal damage to certain objects.
+
+_Immunities:_ Objects are immune to nonlethal damage and to critical hits.
+
+Even animated objects, which are otherwise considered creatures, have these immunities because they are constructs.
+
+_Magic Armor, Shields, and Weapons:_ Each +1 of enhancement bonus adds 2 to the hardness of armor, a weapon, or a shield and +10 to the item’s hit points.
+
+_Vulnerability to Certain Attacks:_ Certain attacks are especially successful against some objects. In such cases, attacks deal double their normal damage and may ignore the object’s hardness.
+
+_Damaged Objects:_ A damaged object remains fully functional until the item’s hit points are reduced to 0, at which point it is destroyed.
+
+Damaged (but not destroyed) objects can be repaired with the Craft skill.
+
+**Saving Throws:** Nonmagical, unattended items never make saving throws. They are considered to have failed their saving throws, so they always are affected by spells. An item attended by a character (being grasped, touched, or worn) makes saving throws as the character (that is, using the character’s saving throw bonus).
+
+Magic items always get saving throws. A magic item’s Fortitude, Reflex, and Will save bonuses are equal to 2 + one-half its caster level. An attended magic item either makes saving throws as its owner or uses its own saving throw bonus, whichever is better.
+
+_Animated Objects:_ Animated objects count as creatures for purposes of determining their Armor Class (do not treat them as inanimate objects).
+
+#### Breaking Items
+
+When a character tries to break something with sudden force rather than by dealing damage, use a Strength check (rather than an attack roll and damage roll, as with the sunder special attack) to see whether he or she succeeds. The DC depends more on the construction of the item than on the material.
+
+If an item has lost half or more of its hit points, the DC to break it drops by 2.
+
+Larger and smaller creatures get size bonuses and size penalties on Strength checks to break open doors as follows: Fine –16, Diminutive –12, Tiny –8, Small –4, Large +4, Huge +8, Gargantuan +12, Colossal +16.
+
+A crowbar or portable ram improves a character’s chance of breaking open a door.
+
+<table class="full-width-table"><caption>Table: Common Armor, Weapon, and Shield Hardness and Hit Points</caption><tbody><tr><th>Weapon or Shield</th><th>Hardness</th><th>HP<sup>1</sup></th></tr><tr><td>Light blade</td><td>10</td><td>2</td></tr><tr><td>One-handed blade</td><td>10</td><td>5</td></tr><tr><td>Two-handed blade</td><td>10</td><td>10</td></tr><tr><td>Light metal-hafted weapon</td><td>10</td><td>10</td></tr><tr><td>One-handed metal-hafted weapon</td><td>10</td><td>20</td></tr><tr><td>Light hafted weapon</td><td>5</td><td>2</td></tr><tr><td>One-handed hafted weapon</td><td>5</td><td>5</td></tr><tr><td>Two-handed hafted weapon</td><td>5</td><td>10</td></tr><tr><td>Projectile weapon</td><td>5</td><td>5</td></tr><tr><td>Armor</td><td>special<sup>2</sup></td><td>armor bonus x 5</td></tr><tr><td>Buckler</td><td>10</td><td>5</td></tr><tr><td>Light wooden shield</td><td>5</td><td>7</td></tr><tr><td>Heavy wooden shield</td><td>5</td><td>15</td></tr><tr><td>Light steel shield</td><td>10</td><td>10</td></tr><tr><td>Heavy steel shield</td><td>10</td><td>20</td></tr><tr><td>Tower shield</td><td>5</td><td>20</td></tr><tr><td colspan="3">1 The hp value given is for Medium armor, weapons, and shields.<br>Divide by 2 for each size category of the item smaller than Medium, or multiply it by 2 for each size category larger than Medium.</td></tr><tr><td colspan="3">2 Varies by material; see Table: Substance Hardness and Hit Points.</td></tr></tbody></table>
+
+<table class="half-width-table"><caption>Table: Substance Hardness and Hit Points</caption><tbody><tr><th>Substance</th><th>Hardness</th><th>Hit Points</th></tr><tr><td>Paper or cloth</td><td>0</td><td>2/inch of thickness</td></tr><tr><td>Rope</td><td>0</td><td>2/inch of thickness</td></tr><tr><td>Glass</td><td>1</td><td>1/inch of thickness</td></tr><tr><td>Ice</td><td>0</td><td>3/inch of thickness</td></tr><tr><td>Leather or hide</td><td>2</td><td>5/inch of thickness</td></tr><tr><td>Wood</td><td>5</td><td>10/inch of thickness</td></tr><tr><td>Stone</td><td>8</td><td>15/inch of thickness</td></tr><tr><td>Iron or steel</td><td>10</td><td>30/inch of thickness</td></tr><tr><td>Mithral</td><td>15</td><td>30/inch of thickness</td></tr><tr><td>Adamantine</td><td>20</td><td>40/inch of thickness</td></tr></tbody></table>
+
+<table class="half-width-table"><caption>Table: Size and Armor Class of Objects</caption><tbody><tr><th>Size</th><th>AC Modifier</th></tr><tr><td>Colossal</td><td>–8</td></tr><tr><td>Gargantuan</td><td>–4</td></tr><tr><td>Huge</td><td>–2</td></tr><tr><td>Large</td><td>–1</td></tr><tr><td>Medium</td><td>+0</td></tr><tr><td>Small</td><td>+1</td></tr><tr><td>Tiny</td><td>+2</td></tr><tr><td>Diminutive</td><td>+4</td></tr><tr><td>Fine</td><td>+8</td></tr></tbody></table>
+
+<table class="half-width-table"><caption>Table: Object Hardness and Hit Points</caption><tbody><tr><th>Object</th><th>Hardness</th><th>Hit Points</th><th>Break DC</th></tr><tr><td>Rope (1 inch diam.)</td><td>0</td><td>2</td><td>23</td></tr><tr><td>Simple wooden door</td><td>5</td><td>10</td><td>13</td></tr><tr><td>Small chest</td><td>5</td><td>1</td><td>17</td></tr><tr><td>Good wooden door</td><td>5</td><td>15</td><td>18</td></tr><tr><td>Treasure chest</td><td>5</td><td>15</td><td>23</td></tr><tr><td>Strong wooden door</td><td>5</td><td>20</td><td>23</td></tr><tr><td>Masonry wall (1 ft. thick)</td><td>8</td><td>90</td><td>35</td></tr><tr><td>Hewn stone (3 ft. thick)</td><td>8</td><td>540</td><td>50</td></tr><tr><td>Chain</td><td>10</td><td>5</td><td>26</td></tr><tr><td>Manacles</td><td>10</td><td>10</td><td>26</td></tr><tr><td>Masterwork manacles</td><td>10</td><td>10</td><td>28</td></tr><tr><td>Iron door (2 in. thick)</td><td>10</td><td>60</td><td>28</td></tr></tbody></table>
+
+<table class="half-width-table"><caption>Table: DCs to Break or Burst Items</caption><tbody><tr><th>Strength Check to:</th><th>DC</th></tr><tr><td>Break down simple door</td><td>13</td></tr><tr><td>Break down good door</td><td>18</td></tr><tr><td>Break down strong door</td><td>23</td></tr><tr><td>Burst rope bonds</td><td>23</td></tr><tr><td>Bend iron bars</td><td>24</td></tr><tr><td>Break down barred door</td><td>25</td></tr><tr><td>Burst chain bonds</td><td>26</td></tr><tr><td>Break down iron door</td><td>28</td></tr><tr><th>Condition</th><th>DC Adjustment<sup>1</sup></th></tr><tr><td><i>Hold portal</i></td><td>+5</td></tr><tr><td><i>Arcane lock</i></td><td>+10</td></tr><tr><td colspan="2">1 If both apply, use the larger number.</td></tr></tbody></table>
