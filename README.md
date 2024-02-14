@@ -1,6 +1,7 @@
 # Revised (v.3.5) System Reference Document
 
-Github Repository: [https://github.com/olimot/srd-v3.5](https://github.com/olimot/srd-v3.5)  
+Github Repository: [https://github.com/olimot/srd-v3.5-md](https://github.com/olimot/srd-v3.5-md)  
+HTML Version: [https://olimot.github.io/olimot/srd-v3.5](https://github.com/olimot/srd-v3.5)  
 Original Documents: [http://www.wizards.com/default.asp?x=d20/article/srd35](http://www.wizards.com/default.asp?x=d20/article/srd35)  
 Archive: [https://archive.org/details/dnd35srd](https://archive.org/details/dnd35srd)
 
