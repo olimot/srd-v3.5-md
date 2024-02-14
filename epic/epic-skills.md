@@ -4,52 +4,6 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 Despite the near-magical nature of some epic level skill uses, all uses of skills are considered exceptional abilities (except if noted otherwise), and thus function normally even within areas of antimagic.
 
-## Table of Contents
-
-- [Skill Synergy](#skill-synergy)
-- [Skill Descriptions](#skill-descriptions)
-- [Appraise](#appraise)
-- [Balance](#balance)
-- [Bluff](#bluff)
-- [Climb](#climb)
-- [Concentration](#concentration)
-- [Craft](#epic-skills--craft)
-- [Craft (Alchemy)](#craft)
-- [Decipher Script](#decipher-script)
-- [Diplomacy](#diplomacy)
-- [Disable Device](#disable-device)
-- [Disguise](#disguise)
-- [Escape Artist](#escape-artist)
-- [Forgery](#forgery)
-- [Gather Information](#gather-information)
-- [Handle Animal](#handle-animal)
-- [Heal](#heal)
-- [Hide](#hide)
-- [Intimidate](#intimidate)
-- [Jump](#jump)
-- [Knowledge](#knowledge)
-- [Listen](#listen)
-- [Move Silently](#move-silently)
-- [Open Lock](#open-lock)
-- [Perform](#perform)
-- [Profession](#profession)
-- [Ride](#ride)
-- [Search](#search)
-- [Sense Motive](#sense-motive)
-- [Sleight of Hand](#sleight-of-hand)
-- [Spellcraft](#spellcraft)
-- [Spot](#spot)
-- [Survival](#survival)
-- [Swim](#swim)
-- [Tumble](#tumble)
-- [Use Magic Device](#use-magic-device)
-- [Use Rope](#use-rope)
-- [Psionic Skills](#psionic-skills)
-  - [Autohypnosis](#autohypnosis)
-  - [Stabilize Self](#stabilize-self)
-- [Miscellaneous](#miscellaneous)
-  - [Scrying Spells](#scrying-spells)
-
 ## Skill Synergy
 
 Many skills are noted as granting a synergy bonus to the use of another skill when a character has 5 or more ranks in the first skill. This synergy bonus increases by +2 for every additional 20 ranks the character has in the skill.

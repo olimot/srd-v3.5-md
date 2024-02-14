@@ -10,22 +10,6 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 If the result equals or exceeds the target number, your character succeeds. If the result is lower than the target number, you fail.
 
-## Table of Contents
-
-- [Dice](#dice)
-- [Rounding Fractions](#rounding-fractions)
-- [Multiplying](#multiplying)
-- [Ability Scores](#ability-scores)
-  - [Ability Modifiers](#ability-modifiers)
-  - [Abilities and Spellcasters](#abilities-and-spellcasters)
-- [The Abilities](#the-abilities)
-  - [Strength (Str)](#strength)
-  - [Dexterity (Dex)](#dexterity)
-  - [Constitution (Con)](#constitution)
-  - [Intelligence (Int)](#intelligence)
-  - [Wisdom (Wis)](#wisdom)
-  - [Charisma (Cha)](#charisma)
-
 ## Dice
 
 Dice rolls are described with expressions such as “3d4+3,” which means “roll three four-sided dice and add 3” (resulting in a number between 6 and 15). The first number tells you how many dice to roll (adding the results together). The number immediately after the “d” tells you the type of die to use. Any number after that indicates a quantity that is added or subtracted from the result.

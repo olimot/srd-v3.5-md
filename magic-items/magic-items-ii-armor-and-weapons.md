@@ -2,16 +2,6 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 # MAGIC ITEMS II (ARMOR & WEAPONS)
 
-## Table of Contents
-
-- [Armor](#armor)
-- [Magic Armor and Shield Special Ability Descriptions](#magic-armor-and-shield-special-ability-descriptions)
-- [Specific Armors](#specific-armors)
-  - [Specific Shields](#specific-shields)
-- [Weapons](#weapons)
-- [Magic Weapon Special Ability Descriptions](#magic-weapon-special-ability-descriptions)
-- [Specific Weapons](#specific-weapons)
-
 ## Armor
 
 In general, magic armor protects the wearer to a greater extent than nonmagical armor. Magic armor bonuses are enhancement bonuses, never rise above +5, and stack with regular armor bonuses (and with shield and magic shield enhancement bonuses). All magic armor is also masterwork armor, reducing armor check penalties by 1.

@@ -4,33 +4,6 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 Assume a character owns at least one outfit of normal clothes. Pick any one of the following clothing outfits: artisan’s outfit, entertainer’s outfit, explorer’s outfit, monk’s outfit, peasant’s outfit, scholar’s outfit, or traveler’s outfit.
 
-## Table of Contents
-
-- [Wealth and Money](#wealth-and-money)
-  - [Coins](#coins)
-  - [Wealth Other Than Coins](#wealth-other-than-coins)
-  - [Selling Loot](#selling-loot)
-- [Weapons](#weapons)
-  - [Weapon Categories](#weapon-categories)
-  - [Weapon Qualities](#weapon-qualities)
-  - [Weapon Descriptions](#weapon-descriptions)
-  - [Masterwork Weapons](#masterwork-weapons)
-- [Armor](#armor)
-  - [Armor Qualities](#armor-qualities)
-  - [Armor Descriptions](#armor-descriptions)
-  - [Masterwork Armor](#masterwork-armor)
-  - [Armor for Unusual Creatures](#armor-for-unusual-creatures)
-  - [Getting Into and Out of Armor](#getting-into-and-out-of-armor)
-- [Goods and Services](#goods-and-services)
-  - [Adventuring Gear](#adventuring-gear)
-  - [Special Substances and Items](#special-substances-and-items)
-  - [Tools and Skill Kits](#tools-and-skill-kits)
-  - [Clothing](#clothing)
-  - [Food, Drink, and Lodging](#food-drink-and-lodging)
-  - [Mounts and Related Gear](#mounts-and-related-gear)
-  - [Transport](#transport)
-  - [Spellcasting and Services](#spellcasting-and-services)
-
 ## Wealth and Money
 
 ### Coins

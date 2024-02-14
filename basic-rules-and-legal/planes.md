@@ -2,28 +2,6 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 # PLANES
 
-## Table of Contents
-
-- [What Is a Plane?](#what-is-a-plane)
-- [Planar Traits](#planar-traits)
-- [Physical Traits](#physical-traits)
-- [Elemental and Energy Traits](#elemental-and-energy-traits)
-- [Alignment Traits](#alignment-traits)
-- [Magic Traits](#magic-traits)
-- [How Planes Interact](#how-planes-interact)
-  - [Layered Planes](#layered-planes)
-- [Plane Descriptions](#plane-descriptions)
-  - [The Material Plane](#the-material-plane)
-  - [The Ethereal Plane](#the-ethereal-plane)
-  - [Plane of Shadow](#plane-of-shadow)
-  - [The Astral Plane](#the-astral-plane)
-  - [Elemental Plane of Air](#elemental-plane-of-air)
-  - [Elemental Plane of Earth](#elemental-plane-of-earth)
-  - [Elemental Plane of Fire](#elemental-plane-of-fire)
-  - [Elemental Plane of Water](#elemental-plane-of-water)
-  - [Negative Energy Plane](#negative-energy-plane)
-  - [Positive Energy Plane](#positive-energy-plane)
-
 ## What Is a Plane?
 
 The planes of existence are different realities with interwoven connections. Except for rare linking points, each plane is effectively its own universe with its own natural laws.

@@ -2,43 +2,6 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 # PSIONIC ITEMS
 
-## Table of Contents
-
-- [Using Items](#using-items)
-- [Saving Throws Against Psionic Item Powers](#saving-throws-against-psionic-item-powers)
-- [Damaging Psionic Items](#damaging-psionic-items)
-  - [Repairing Items](#repairing-items)
-- [Intelligent Items](#intelligent-items)
-- [Cursed Items](#psionic-items--cursed-items)
-- [Charges and Multiple Uses](#charges-and-multiple-uses)
-- [Magic Items for Psionic Characters](#magic-items-for-psionic-characters)
-- [Psionic Item Descriptions](#psionic-item-descriptions)
-  - [Random Psionic Items](#random-psionic-items)
-  - [Armor and Shields](#armor-and-shields)
-    - [Psionic Armor and Shield Special Ability Descriptions](#psionic-armor-and-shield-special-ability-descriptions)
-  - [Weapons](#weapons)
-    - [Psionic Weapon Special Ability Descriptions](#psionic-weapon-special-ability-descriptions)
-  - [Cognizance Crystals](#cognizance-crystals)
-  - [Dorjes](#dorjes)
-  - [Power Stones](#power-stones)
-  - [Psicrowns](#psicrowns)
-    - [Psicrown Descriptions](#psicrown-descriptions)
-  - [Psionic Tattoos](#psionic-tattoos)
-  - [Universal Items](#universal-items)
-    - [Universal Item Descriptions](#universal-item-descriptions)
-  - [Cursed Items](#psionic-item-descriptions--cursed-items)
-    - [Specific Cursed Item](#specific-cursed-item)
-  - [Psionic Artifacts](#psionic-artifacts)
-    - [Minor Artifacts](#minor-artifacts)
-    - [Major Artifacts](#major-artifacts)
-- [Creating Psionic Items](#creating-psionic-items)
-  - [Creating Dorjes](#creating-dorjes)
-  - [Creating Power Stones](#creating-power-stones)
-  - [Creating Psicrowns](#creating-psicrowns)
-  - [Creating Psionic Tattoos](#creating-psionic-tattoos)
-  - [Creating Universal Items](#creating-universal-items)
-- [Special Materials](#special-materials)
-
 ## Using Items
 
 To use a psionic item, it must be activated, although sometimes activation is accomplished simply by picking up an item or putting it on. Some items, once they are carried or worn, function constantly. In most cases, using an item requires a standard action that does not provoke attacks of opportunity. By contrast, power completion items (see below) are treated just like powers in combat and do provoke attacks of opportunity.

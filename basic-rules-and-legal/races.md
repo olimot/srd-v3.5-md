@@ -2,19 +2,6 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 # RACES
 
-## Table of Contents
-
-- [Favored Class](#favored-class)
-- [Race and Languages](#race-and-languages)
-- [Small Characters](#small-characters)
-- [Humans](#humans)
-- [Dwarves](#dwarves)
-- [Elves](#elves)
-- [Gnomes](#gnomes)
-- [Half-Elves](#half-elves)
-- [Half-Orcs](#half-orcs)
-- [Halflings](#halflings)
-
 ## Favored Class
 
 A character’s favored class doesn’t count against him or her when determining experience point penalties for multiclassing.

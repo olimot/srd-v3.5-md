@@ -2,11 +2,6 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 # DIVINE RANKS AND POWERS
 
-## Table of Contents
-
-- [Divine Ranks](#divine-ranks)
-- [Divine Characteristics](#divine-characteristics)
-
 ## Divine Ranks
 
 Each deity has a divine rank. A deity’s divine rank determines how much power the entity has.

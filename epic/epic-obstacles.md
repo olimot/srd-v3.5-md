@@ -2,13 +2,6 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 # EPIC OBSTACLES
 
-## Table of Contents
-
-- [Walls](#walls)
-- [Doors](#doors)
-- [Obstacles and Hazards](#obstacles-and-hazards)
-- [Slimes, Molds, and Fungi](#slimes-molds-and-fungi)
-
 ## Walls
 
 In addition to the standard types of wall, walls in dungeons can be made of mithral, adamantine, or even pure force.

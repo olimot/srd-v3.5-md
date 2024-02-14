@@ -2,11 +2,6 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 # TREASURE
 
-## Table of Contents
-
-- [Monsters with Treasure](#monsters-with-treasure)
-  - [Using the Treasure Table](#using-the-treasure-table)
-
 ## Monsters with Treasure
 
 Every monster has a treasure rating (indicating how much treasure it has, although for some creatures the rating is “None”). The tables found below are used to determine the specifics. After referencing the level and kind of treasure (coins, goods, items) found in the creature’s description, roll on the appropriate row and columns of the proper table.

@@ -2,11 +2,6 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 # MAGIC ITEMS V (WONDROUS ITEMS)
 
-## Table of Contents
-
-- [Wondrous Items](#wondrous-items)
-- [Wondrous Item Descriptions](#wondrous-item-descriptions)
-
 ## Wondrous Items
 
 This is a catch-all category for anything that doesn’t fall into the other groups. Anyone can use a wondrous item (unless specified otherwise in the description).

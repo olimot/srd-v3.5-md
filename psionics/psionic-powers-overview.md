@@ -10,44 +10,6 @@ A power is manifested when a psionic character pays its power point cost. Some p
 
 Each power has a specific effect. A power known to a psionic character can be used whenever he or she has power points to pay for it.
 
-## Table of Contents
-
-- [Manifesting Powers](#manifesting-powers)
-- [Choosing a Power](#choosing-a-power)
-- [Concentration](#concentration)
-- [Manifester Level](#manifester-level)
-- [Power Failure](#power-failure)
-- [The Power’s Result](#the-powers-result)
-- [Special Power Effects](#special-power-effects)
-- [Combining Psionic and Magical Effects](#combining-psionic-and-magical-effects)
-- [Powers and Power Points](#powers-and-power-points)
-  - [Adding Powers](#adding-powers)
-    - [Manifest an Unknown Power From Another’s Powers Known](#manifest-an-unknown-power-from-anothers-powers-known)
-  - [Using Stored Power Points](#using-stored-power-points)
-- [Special Abilities](#special-abilities)
-- [Psionic Maladies](#psionic-maladies)
-- [Power Descriptions](#power-descriptions)
-  - [Name](#name)
-  - [Discipline (Subdiscipline)](#discipline)
-  - [Clairsentience](#clairsentience)
-  - [Metacreativity](#metacreativity)
-  - [Psychokinesis](#psychokinesis)
-  - [Psychometabolism](#psychometabolism)
-  - [Psychoportation](#psychoportation)
-  - [Telepathy](#telepathy)
-  - [\[Descriptor\]](#descriptor)
-  - [Level](#level)
-  - [Display](#display)
-  - [Manifesting Time](#manifesting-time)
-  - [New Action Types](#new-action-types)
-  - [Range](#range)
-  - [Aiming a Power](#aiming-a-power)
-  - [Duration](#duration)
-  - [Saving Throw](#saving-throw)
-  - [Power Resistance](#power-resistance)
-  - [Power Points](#power-points)
-  - [Descriptive Text](#descriptive-text)
-
 ## Manifesting Powers
 
 Psionic characters and creatures manifest powers. Whether they cost power points when manifest by a psionic character, or are manifested as psi-like abilities, powers’ effects remain the same. The process of manifesting a power is akin to casting a spell, but with significant differences.

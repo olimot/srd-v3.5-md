@@ -2,14 +2,6 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 # MAGIC ITEMS IV (SCROLLS, STAFFS, & WANDS)
 
-## Table of Contents
-
-- [Scrolls](#scrolls)
-- [Staffs](#staffs)
-- [Staff Descriptions](#staff-descriptions)
-- [Wands](#wands)
-- [Wand Descriptions](#wand-descriptions)
-
 ## Scrolls
 
 A scroll is a spell (or collection of spells) that has been stored in written form. A spell on a scroll can be used only once. The writing vanishes from the scroll when the spell is activated. Using a scroll is basically like casting a spell.

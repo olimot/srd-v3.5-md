@@ -22,35 +22,6 @@ Magic items are divided into categories: armor, weapons, potions, rings, rods, s
 
 **Wondrous Items:** These objects include magic jewelry, tools, books, clothing, and much more.
 
-## Table of Contents
-
-- [Magic Items and Detect Magic](#magic-items-and-detect-magic)
-- [Using Items](#using-items)
-- [Size and Magic Items](#size-and-magic-items)
-- [Magic Items on the Body](#magic-items-on-the-body)
-- [Saving Throws Against Magic Item Powers](#saving-throws-against-magic-item-powers)
-- [Damaging Magic Items](#damaging-magic-items)
-- [Repairing Magic Items](#repairing-magic-items)
-- [Intelligent Items](#intelligent-items)
-- [Cursed Items](#cursed-items)
-- [Charges, Doses, and Multiple Uses](#charges-doses-and-multiple-uses)
-- [Magic Item Descriptions](#magic-item-descriptions)
-- [Creating Magic Items](#creating-magic-items)
-  - [Magic Item Gold Piece Values](#magic-item-gold-piece-values)
-  - [Masterwork Items](#masterwork-items)
-  - [Creating Magic Armor](#creating-magic-armor)
-  - [Creating Magic Weapons](#creating-magic-weapons)
-  - [Creating Potions](#creating-potions)
-  - [Creating Rings](#creating-rings)
-  - [Creating Rods](#creating-rods)
-  - [Creating Scrolls](#creating-scrolls)
-  - [Creating Staffs](#creating-staffs)
-  - [Creating Wands](#creating-wands)
-  - [Creating Wondrous Items](#creating-wondrous-items)
-  - [Intelligent Item Creation](#intelligent-item-creation)
-  - [Adding New Abilities](#adding-new-abilities)
-    - [Body Slot Affinities](#body-slot-affinities)
-
 ## Magic Items and Detect Magic
 
 When _detect magic_ identifies a magic item’s school of magic, this information refers to the school of the spell placed within the potion, scroll, or wand, or the prerequisite given for the item. The description of each item provides its aura strength and the school it belongs to.

@@ -19,28 +19,6 @@ An epic magic item that grants a bonus beyond those allowed for normal magic ite
 
 Epic magic items are not artifacts. They are not unique, though they are certainly very rare, and anyone with the proper item creation feats can build them. Even an epic magic item can never grant a dodge bonus, and the maximum inherent bonus that can be applied to an ability score is +5. An epic magic item cannot be created that uses or mimics an epic spell. A major artifact might be able to mimic such a spell, however.
 
-## Table of Contents
-
-- [Creating Epic Magic Items](#creating-epic-magic-items)
-- [Caster Level](#caster-level)
-- [Prerequisites](#prerequisites)
-- [Market Price](#market-price)
-  - [Experience Point Cost](#experience-point-cost)
-  - [Magic Item Descriptions](#magic-item-descriptions)
-- [Armor](#armor)
-  - [Epic Armor and Shield Base Price](#epic-armor-and-shield-base-price)
-  - [Epic Armor and Shield Special Ability Descriptions](#epic-armor-and-shield-special-ability-descriptions)
-  - [Specific Armors and Shields](#specific-armors-and-shields)
-- [Weapons](#weapons)
-  - [Epic Weapon Base Price](#epic-weapon-base-price)
-  - [Epic Weapon Special Ability Descriptions](#epic-weapon-special-ability-descriptions)
-  - [Specific Weapons](#specific-weapons)
-- [Rings](#rings)
-  - [Nonepic Magic Item](#nonepic-magic-item)
-  - [Epic Ring Descriptions](#epic-ring-descriptions)
-- [Rods](#rods)
-  - [Epic Rod Descriptions](#epic-rod-descriptions)
-
 ## Creating Epic Magic Items
 
 The process of creating an epic magic item is very similar to creating a nonepic magic item. However, certain important differences exist.

@@ -2,25 +2,6 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 # MAGIC ITEMS VI (INTELLIGENT, CURSED, & ARTIFACTS)
 
-## Table of Contents
-
-- [Intelligent Items](#intelligent-items)
-  - [Intelligent Item Alignment](#intelligent-item-alignment)
-  - [Languages Spoken by Item](#languages-spoken-by-item)
-  - [Intelligent Item Powers](#intelligent-item-powers)
-  - [Special Purpose Items](#special-purpose-items)
-  - [Purpose](#purpose)
-  - [Dedicated Power](#dedicated-power)
-  - [Item Ego](#item-ego)
-  - [Items Against Characters](#items-against-characters)
-- [Cursed Items](#cursed-items)
-  - [Specific Cursed Items](#specific-cursed-items)
-- [Artifacts](#artifacts)
-  - [Minor Artifacts](#minor-artifacts)
-  - [Minor Artifact Descriptions](#minor-artifact-descriptions)
-  - [Major Artifacts](#major-artifacts)
-  - [Major Artifact Descriptions](#major-artifact-descriptions)
-
 ## Intelligent Items
 
 Magic items sometimes have intelligence of their own. Magically imbued with sentience, these items think and feel the same way characters do and should be treated as NPCs. Intelligent items have extra abilities and sometimes extraordinary powers and special purposes. Only permanent magic items (as opposed to single-use items or those with charges) can be intelligent. (This means that potions, scrolls, and wands, among other items, are never intelligent.) In general, less than 1% of magic items have intelligence.

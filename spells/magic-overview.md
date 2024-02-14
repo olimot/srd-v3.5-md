@@ -10,53 +10,6 @@ Despite these different ways that characters use to learn or prepare their spell
 
 Cutting across the categories of arcane and divine spells are the eight schools of magic. These schools represent the different ways that spells take effect.
 
-## Table of Contents
-
-- [Casting Spells](#casting-spells)
-  - [Choosing a Spell](#choosing-a-spell)
-  - [Concentration](#concentration)
-  - [Counterspells](#counterspells)
-  - [Caster Level](#caster-level)
-  - [Spell Failure](#spell-failure)
-  - [The Spell’s Result](#the-spells-result)
-  - [Special Spell Effects](#special-spell-effects)
-  - [Combining Magical Effects](#combining-magical-effects)
-- [Spell Descriptions](#spell-descriptions)
-  - [Name](#name)
-  - [School (Subschool)](#school)
-    - [Abjuration](#abjuration)
-    - [Conjuration](#conjuration)
-    - [Divination](#divination)
-    - [Enchantment](#enchantment)
-    - [Evocation](#evocation)
-    - [Illusion](#illusion)
-    - [Necromancy](#necromancy)
-    - [Transmutation](#transmutation)
-  - [\[Descriptor\]](#descriptor)
-  - [Level](#level)
-  - [Components](#components)
-  - [Casting Time](#casting-time)
-  - [Range](#range)
-  - [Aiming a Spell](#aiming-a-spell)
-  - [Duration](#duration)
-  - [Saving Throw](#saving-throw)
-  - [Spell Resistance](#spell-resistance)
-  - [Descriptive Text](#descriptive-text)
-- [Arcane Spells](#arcane-spells)
-  - [Preparing Wizard Spells](#preparing-wizard-spells)
-  - [Arcane Magical Writings](#arcane-magical-writings)
-    - [Wizard Spells and Borrowed Spellbooks](#wizard-spells-and-borrowed-spellbooks)
-    - [Adding Spells to a Wizard’s Spellbook](#adding-spells-to-a-wizards-spellbook)
-    - [Writing a New Spell Into a Spellbook](#writing-a-new-spell-into-a-spellbook)
-    - [Replacing and Copying Spellbooks](#replacing-and-copying-spellbooks)
-    - [Selling a Spellbook](#selling-a-spellbook)
-  - [Sorcerers and Bards](#sorcerers-and-bards)
-- [Divine Spells](#divine-spells)
-  - [Preparing Divine Spells](#preparing-divine-spells)
-  - [Divine Magical Writings](#divine-magical-writings)
-  - [New Divine Spells](#new-divine-spells)
-- [Special Abilities](#special-abilities)
-
 ## Casting Spells
 
 Whether a spell is arcane or divine, and whether a character prepares spells in advance or chooses them on the spot, casting a spell works the same way.

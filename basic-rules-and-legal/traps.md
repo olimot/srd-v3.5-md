@@ -8,37 +8,6 @@ Magic traps are further divided into spell traps and magic device traps. Magic d
 
 Spell traps are simply spells that themselves function as traps. Creating a spell trap requires the services of a character who can cast the needed spell or spells, who is usually either the character creating the trap or an NPC spellcaster hired for the purpose.
 
-## Table of Contents
-
-- [Mechanical Traps](#mechanical-traps)
-- [Magic Traps](#magic-traps)
-- [Elements of a Trap](#elements-of-a-trap)
-  - [Trigger](#trigger)
-  - [Reset](#reset)
-  - [Repairing and Resetting Mechanical Traps](#repairing-and-resetting-mechanical-traps)
-  - [Bypass (Optional Element)](#bypass)
-  - [Search and Disable Device Dcs](#search-and-disable-device-dcs)
-  - [Attack Bonus/Saving Throw Dc](#attack-bonus-saving-throw-dc)
-  - [Damage/Effect](#damage-effect)
-  - [Miscellaneous Trap Features](#miscellaneous-trap-features)
-- [Sample Traps](#sample-traps)
-  - [Cr 1 Traps](#cr-1-traps)
-  - [Cr 2 Traps](#cr-2-traps)
-  - [Cr 3 Traps](#cr-3-traps)
-  - [Cr 4 Traps](#cr-4-traps)
-  - [Cr 5 Traps](#cr-5-traps)
-  - [Cr 6 Traps](#cr-6-traps)
-  - [Cr 7 Traps](#cr-7-traps)
-  - [Cr 8 Traps](#cr-8-traps)
-  - [Cr 9 Traps](#cr-9-traps)
-  - [Cr 10 Traps](#cr-10-traps)
-- [Designing a Trap](#designing-a-trap)
-  - [Challenge Rating of a Trap](#challenge-rating-of-a-trap)
-  - [Mechanical Trap Cost](#mechanical-trap-cost)
-  - [Magic Device Trap Cost](#magic-device-trap-cost)
-  - [Spell Trap Cost](#spell-trap-cost)
-  - [Craft Dcs for Mechanical Traps](#craft-dcs-for-mechanical-traps)
-
 ## Mechanical Traps
 
 Dungeons are frequently equipped with deadly mechanical (nonmagical) traps. A trap typically is defined by its location and triggering conditions, how hard it is to spot before it goes off, how much damage it deals, and whether or not the heroes receive a saving throw to mitigate its effects. Traps that attack with arrows, sweeping blades, and other types of weaponry make normal attack rolls, with a specific attack bonus dictated by the trap’s design.

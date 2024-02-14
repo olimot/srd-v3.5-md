@@ -2,25 +2,6 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 # NPC CLASSES
 
-## Table of Contents
-
-- [Adept](#adept)
-  - [Class Skills](#adept--class-skills)
-  - [Class Features](#adept--class-features)
-  - [Adept Spell List](#adept-spell-list)
-- [Aristocrat](#aristocrat)
-  - [Class Skills](#aristocrat--class-skills)
-  - [Class Features](#aristocrat--class-features)
-- [Commoner](#commoner)
-  - [Class Skills](#commoner--class-skills)
-  - [Class Features](#commoner--class-features)
-- [Expert](#expert)
-  - [Class Skills](#expert--class-skills)
-  - [Class Features](#expert--class-features)
-- [Warrior](#warrior)
-  - [Class Skills](#warrior--class-skills)
-  - [Class Features](#warrior--class-features)
-
 ## Adept
 
 **Hit Die:** d6.

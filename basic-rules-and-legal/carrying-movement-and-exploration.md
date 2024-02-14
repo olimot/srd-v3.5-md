@@ -2,24 +2,6 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 # CARRYING, MOVEMENT, & EXPLORATION
 
-## Table of Contents
-
-- [Carrying Capacity](#carrying-capacity)
-  - [Armor and Encumbrance for Other Base Speeds](#armor-and-encumbrance-for-other-base-speeds)
-- [Movement](#movement)
-  - [Tactical Movement](#tactical-movement)
-  - [Local Movement](#local-movement)
-  - [Overland Movement](#overland-movement)
-  - [Moving in Three Dimensions](#moving-in-three-dimensions)
-    - [Tactical Aerial Movement](#tactical-aerial-movement)
-  - [Evasion and Pursuit](#evasion-and-pursuit)
-  - [Moving Around in Squares](#moving-around-in-squares)
-- [Exploration](#exploration)
-  - [Vision and Light](#vision-and-light)
-  - [Breaking and Entering](#breaking-and-entering)
-    - [Smashing an Object](#smashing-an-object)
-    - [Breaking Items](#breaking-items)
-
 ## Carrying Capacity
 
 Encumbrance rules determine how much a character’s armor and equipment slow him or her down. Encumbrance comes in two parts: encumbrance by armor and encumbrance by total weight.

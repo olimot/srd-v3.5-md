@@ -2,16 +2,6 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 # PSIONIC RACES
 
-## Table of Contents
-
-- [Dromites](#dromites)
-- [Duergar](#duergar)
-- [Elans](#elans)
-- [Half-Giants](#half-giants)
-- [Maenads](#maenads)
-- [Xephs](#xephs)
-- [Age, Height, and Weight](#age-height-and-weight)
-
 ## Dromites
 
 - +2 Charisma, –2 Strength, –2 Wisdom

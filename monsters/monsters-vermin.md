@@ -14,19 +14,6 @@ These creatures operate on instinct, driven by simple needs such as food and rep
 
 —_Treasure:_ Vermin generally possess no treasure. For those that do, this treasure consists of possessions formerly owned by a creature that the monster has killed.
 
-## Table of Contents
-
-- [Giant Ant](#giant-ant)
-- [Giant Bee](#giant-bee)
-- [Giant Bombardier Beetle](#giant-bombardier-beetle)
-- [Giant Fire Beetle](#giant-fire-beetle)
-- [Giant Stag Beetle](#giant-stag-beetle)
-- [Giant Praying Mantis](#giant-praying-mantis)
-- [Giant Wasp](#giant-wasp)
-- [Monstrous Centipede](#monstrous-centipede)
-- [Monstrous Scorpion](#monstrous-scorpion)
-- [Monstrous Spider](#monstrous-spider)
-
 ## Giant Ant
 
 <table data-debug="no-caption" class="full-width-table"><tbody><tr><td></td><th>Giant Ant, Worker</th><th>Giant Ant, Soldier</th><th>Giant Ant, Queen</th></tr><tr><td></td><td>Medium Vermin</td><td>Medium Vermin</td><td>Large Vermin</td></tr><tr><th>Hit Dice:</th><td>2d8 (9 hp)</td><td>2d8+2 (11 hp)</td><td>4d8+4 (22 hp)</td></tr><tr><th>Initiative:</th><td>+0</td><td>+0</td><td>–1</td></tr><tr><th>Speed:</th><td>50 ft. (10 squares), climb 20 ft.</td><td>50 ft. (10 squares), climb 20 ft.</td><td>40 ft. (8 squares)</td></tr><tr><th>Armor Class:</th><td>17 (+7 natural), touch 10, flat-footed 17</td><td>17 (+7 natural), touch 10, flat-footed 17</td><td>17 (–1 size, –1 Dex, +9 natural), touch 8, flat-footed 17</td></tr><tr><th>Base Attack/Grapple:</th><td>+1/+1</td><td>+1/+3</td><td>+3/+10</td></tr><tr><th>Attack:</th><td>Bite +1 melee (1d6)</td><td>Bite +3 melee (2d4+3)</td><td>Bite +5 melee (2d6+4)</td></tr><tr><th>Full Attack:</th><td>Bite +1 melee (1d6)</td><td>Bite +3 melee (2d4+3)</td><td>Bite +5 melee (2d6+4)</td></tr><tr><th>Space/Reach:</th><td>5 ft./5 ft.</td><td>5 ft./5 ft.</td><td>10 ft./5 ft.</td></tr><tr><th>Special Attacks:</th><td>Improved grab</td><td>Improved grab, acid sting</td><td>Improved grab</td></tr><tr><th>Special Qualities:</th><td>Scent, vermin traits</td><td>Scent, vermin traits</td><td>Scent, vermin traits</td></tr><tr><th>Saves:</th><td>Fort +3, Ref +0, Will +0</td><td>Fort +4, Ref +0, Will +1</td><td>Fort +5, Ref +0, Will +2</td></tr><tr><th>Abilities:</th><td>Str 10, Dex 10, Con 10, Int —, Wis 11, Cha 9</td><td>Str 14, Dex 10, Con 13, Int —, Wis 13, Cha 11</td><td>Str 16, Dex 9, Con 13, Int —, Wis 13, Cha 11</td></tr><tr><th>Skills:</th><td>Climb +8</td><td>Climb +10</td><td>—</td></tr><tr><th>Feats:</th><td>Track<sup>B</sup></td><td>Track<sup>B</sup></td><td>Track<sup>B</sup></td></tr><tr><th>Environment:</th><td>Temperate plains</td><td>Temperate plains</td><td>Temperate plains</td></tr><tr><th>Organization:</th><td>Gang (2–6) or crew (6–11 plus 1 giant ant soldier)</td><td>Solitary or gang (2–4)</td><td>Hive (1 plus 10–100 workers and 5–20 soldiers)</td></tr><tr><th>Challenge Rating:</th><td>1</td><td>2</td><td>2</td></tr><tr><th>Treasure:</th><td>None</td><td>None</td><td>1/10 coins; 50% goods; 50% items</td></tr><tr><th>Advancement:</th><td>3–4 HD (Medium); 5–6 HD (Large)</td><td>3–4 HD (Medium); 5–6 HD (Large)</td><td>5–6 HD (Large); 7–8 HD (Huge)</td></tr><tr><th>Level Adjustment:</th><td>—</td><td>—</td><td>—</td></tr></tbody></table>

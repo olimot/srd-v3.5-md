@@ -2,42 +2,6 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 # SKILLS I
 
-## Table of Contents
-
-- [Skills Summary](#skills-summary)
-- [Using Skills](#using-skills)
-  - [Skill Checks](#skill-checks)
-    - [Difficulty Class](#difficulty-class)
-    - [Opposed Checks](#opposed-checks)
-    - [Trying Again](#trying-again)
-    - [Untrained Skill Checks](#untrained-skill-checks)
-    - [Favorable and Unfavorable Conditions](#favorable-and-unfavorable-conditions)
-    - [Time and Skill Checks](#time-and-skill-checks)
-    - [Checks Without Rolls](#checks-without-rolls)
-  - [Combining Skill Attempts](#combining-skill-attempts)
-    - [Individual Events](#individual-events)
-    - [Aid Another](#aid-another)
-    - [Skill Synergy](#skill-synergy)
-  - [Ability Checks](#ability-checks)
-- [Skill Descriptions](#skill-descriptions)
-  - [Skill Name](#skill-name)
-  - [Appraise (Int)](#appraise)
-  - [Balance (Dex; Armor Check Penalty)](#balance)
-  - [Bluff (Cha)](#bluff)
-  - [Climb (Str; Armor Check Penalty)](#climb)
-  - [Concentration (Con)](#concentration)
-  - [Craft (Int)](#craft)
-  - [Decipher Script (Int; Trained Only)](#decipher-script)
-  - [Diplomacy (Cha)](#diplomacy)
-    - [Influencing Npc Attitudes](#influencing-npc-attitudes)
-  - [Disable Device (Int; Trained Only)](#disable-device)
-    - [Other Ways to Beat a Trap](#other-ways-to-beat-a-trap)
-  - [Disguise (Cha)](#disguise)
-  - [Escape Artist (Dex; Armor Check Penalty)](#escape-artist)
-  - [Forgery (Int)](#forgery)
-  - [Gather Information (Cha)](#gather-information)
-  - [Handle Animal (Cha; Trained Only)](#handle-animal)
-
 ## Skills Summary
 
 If you buy a class skill, your character gets 1 rank (equal to a +1 bonus on checks with that skill) for each skill point. If you buy other classes’ skills (cross-class skills), you get 1/2 rank per skill point.

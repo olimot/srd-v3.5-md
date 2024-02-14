@@ -2,15 +2,6 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 # PSIONIC SKILLS
 
-## Table of Contents
-
-- [Skill Descriptions](#skill-descriptions)
-  - [Autohypnosis(Wis; Trained Only)](#autohypnosis)
-  - [Concentration(Con)](#concentration)
-  - [Knowledge (Psionics)(Int)](#knowledge)
-  - [Psicraft (Int; Trained Only)](#psicraft)
-  - [Use Psionic Device (Cha; Trained Only)](#use-psionic-device)
-
 ## Skill Descriptions
 
 The skills below relate to the use of psionics. In addition to three new skills (Autohypnosis, Psicraft, and Use Psionic Device), a new category is provided for the Knowledge skill, and new uses are given for Concentration.

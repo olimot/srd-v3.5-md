@@ -2,27 +2,6 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 # EPIC MAGIC ITEMS 2
 
-## Table of Contents
-
-- [Scrolls](#scrolls)
-- [Staffs](#staffs)
-  - [Epic Staff Descriptions](#epic-staff-descriptions)
-- [Wondrous Items](#wondrous-items)
-  - [Epic Wondrous Item Descriptions](#epic-wondrous-item-descriptions)
-- [Intelligent Items](#intelligent-items)
-  - [Market Price Modifier](#market-price-modifier)
-  - [Intelligent Item Alignment](#intelligent-item-alignment)
-  - [Item Communication](#item-communication)
-  - [Intelligent Item Abilities](#intelligent-item-abilities)
-  - [Special Purpose Items](#special-purpose-items)
-    - [Purpose](#purpose)
-  - [Special Purpose Power](#special-purpose-power)
-  - [Item Ego](#item-ego)
-  - [Items Against Characters](#items-against-characters)
-- [Artifacts](#artifacts)
-  - [Minor Artifacts](#minor-artifacts)
-- [Major Artifacts](#major-artifacts)
-
 ## Scrolls
 
 To generate an epic scroll randomly, first roll on Table: Scroll Types to determine whether the spells are arcane or divine. An epic scroll contains 1d8 spells. For each spell, roll on Table: Epic Scroll Spell Levels to determine its level and then on the appropriate section of Table: Actual Spell Levels to determine the spell’s actual level and total metamagic level adjustments. To determine the specific metamagic level adjustments, roll on the appropriate section of Table: Metamagic Level Adjustment to Spells. To determine the spell, use the appropriate sections of the nonepic scroll tables.

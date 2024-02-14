@@ -4,22 +4,6 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 These feats apply to abilities most commonly found amongst monsters or are related to monsters.
 
-## Table of Contents
-
-- [Ability Focus \[General\]](#ability-focus)
-- [Awesome Blow \[General, Fighter\]](#awesome-blow)
-- [Craft Construct \[Item Creation\]](#craft-construct)
-- [Empower Spell-Like Ability \[General\]](#empower-spell-like-ability)
-- [Flyby Attack \[General\]](#flyby-attack)
-- [Hover \[General\]](#hover)
-- [Improved Natural Armor \[General\]](#improved-natural-armor)
-- [Improved Natural Attack \[General\]](#improved-natural-attack)
-- [Multiattack \[General\]](#multiattack)
-- [Multiweapon Fighting \[General\]](#multiweapon-fighting)
-- [Quicken Spell-Like Ability \[General\]](#quicken-spell-like-ability)
-- [Snatch \[General\]](#snatch)
-- [Wingover \[General\]](#wingover)
-
 ## Ability Focus <small>[General]</small>
 
 Choose one of the creature’s special attacks.

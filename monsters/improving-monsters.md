@@ -12,24 +12,6 @@ Each of the monster entries describes a typical creature of its kind. However, t
 
 Each of these three methods for improving monsters is discussed in more detail below.
 
-## Table of Contents
-
-- [Ability Score Arrays](#ability-score-arrays)
-- [Monsters and Class Levels](#monsters-and-class-levels)
-- [Increasing Hit Dice](#increasing-hit-dice)
-  - [Size Increases](#size-increases)
-- [Templates](#templates)
-  - [Acquired and Inherited Templates](#acquired-and-inherited-templates)
-  - [Reading a Template](#reading-a-template)
-    - [Adding More Than One Template](#adding-more-than-one-template)
-- [Advanced Monster Challenge Rating](#advanced-monster-challenge-rating)
-  - [Adding Class Levels](#adding-class-levels)
-    - [Associated Class Levels](#associated-class-levels)
-    - [Nonassociated Class Levels](#nonassociated-class-levels)
-  - [Adding Hit Dice](#adding-hit-dice)
-  - [Increasing Size](#increasing-size)
-  - [Adding Special Abilities](#adding-special-abilities)
-
 ## Ability Score Arrays
 
 Monsters are assumed to have completely average (or standard) ability scores—a 10 or an 11 in each ability, as modified by their racial bonuses. However, improved monsters are individuals and often have better than normal ability scores, and usually make use of either the elite array or the nonelite array of ability scores. Monsters who improve by adding a template, and monsters who improve by increasing their Hit Dice, may use any of the three arrays (standard, nonelite, or elite). Any monster unique enough to be improved could easily be considered elite.

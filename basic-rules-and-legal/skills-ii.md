@@ -2,31 +2,6 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 # SKILLS II
 
-## Table of Contents
-
-- [Heal (Wis)](#heal)
-- [Hide (Dex; Armor Check Penalty)](#hide)
-- [Intimidate (Cha)](#intimidate)
-- [Jump (Str; Armor Check Penalty)](#jump)
-- [Knowledge (Int; Trained Only)](#knowledge)
-- [Listen (Wis)](#listen)
-- [Move Silently (Dex; Armor Check Penalty)](#move-silently)
-- [Open Lock (Dex; Trained Only)](#open-lock)
-- [Perform (Cha)](#perform)
-- [Profession (Wis; Trained Only)](#profession)
-- [Ride (Dex)](#ride)
-- [Search (Int)](#search)
-- [Sense Motive (Wis)](#sense-motive)
-- [Sleight of Hand (Dex; Trained Only; Armor Check Penalty)](#sleight-of-hand)
-- [Speak Language (None; Trained Only)](#speak-language)
-- [Spellcraft (Int; Trained Only)](#spellcraft)
-- [Spot (Wis)](#spot)
-- [Survival (Wis)](#survival)
-- [Swim (Str; Armor Check Penalty)](#swim)
-- [Tumble (Dex; Trained Only; Armor Check Penalty)](#tumble)
-- [Use Magic Device (Cha; Trained Only)](#use-magic-device)
-- [Use Rope (Dex)](#use-rope)
-
 ## Heal <small>(Wis)</small>
 
 **Check:** The DC and effect depend on the task you attempt.

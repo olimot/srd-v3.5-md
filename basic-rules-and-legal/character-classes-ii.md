@@ -2,31 +2,6 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 # CLASSES II
 
-## Table of Contents
-
-- [Paladin](#paladin)
-  - [Class Skills](#paladin--class-skills)
-  - [Class Features](#paladin--class-features)
-  - [Ex-Paladins](#ex-paladins)
-  - [The Paladin’s Mount](#the-paladins-mount)
-- [Ranger](#ranger)
-  - [Class Skills](#ranger--class-skills)
-  - [Class Features](#ranger--class-features)
-- [Rogue](#rogue)
-  - [Class Skills](#rogue--class-skills)
-  - [Class Features](#rogue--class-features)
-- [Sorcerer](#sorcerer)
-  - [Class Skills](#sorcerer--class-skills)
-  - [Class Features](#sorcerer--class-features)
-- [Wizard](#wizard)
-  - [Class Skills](#wizard--class-skills)
-  - [Class Features](#wizard--class-features)
-  - [School Specialization](#school-specialization)
-  - [Familiars](#familiars)
-  - [Arcane Spells and Armor](#arcane-spells-and-armor)
-- [Multiclass Characters](#multiclass-characters)
-  - [Class and Level Features](#class-and-level-features)
-
 ## Paladin
 
 **Alignment:** Lawful good.

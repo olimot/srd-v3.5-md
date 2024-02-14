@@ -4,34 +4,6 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 Listed below are arcane and divine spells that interact with psionics as well as a cleric domain, Mind.
 
-## Table of Contents
-
-- [Bard Spells](#bard-spells)
-  - [2nd-Level Bard Spell](#2nd-level-bard-spell)
-- [Cleric Spells](#cleric-spells)
-  - [3rd-Level Cleric Spell](#3rd-level-cleric-spell)
-  - [4th-Level Cleric Spell](#4th-level-cleric-spell)
-  - [5th-Level Cleric Spell](#5th-level-cleric-spell)
-  - [7th-Level Cleric Spell](#7th-level-cleric-spell)
-  - [8th-Level Cleric Spell](#8th-level-cleric-spell)
-- [Mind Domain](#mind-domain)
-  - [Mind Domain Spells](#mind-domain-spells)
-- [Sorcerer/Wizard Spells](#sorcerer-wizard-spells)
-  - [3rd-Level Sorcerer/Wizard Spell](#3rd-level-sorcerer-wizard-spell)
-  - [4th-Level Sorcerer/Wizard Spell](#4th-level-sorcerer-wizard-spell)
-  - [5th-Level Sorcerer/Wizard Spell](#5th-level-sorcerer-wizard-spell)
-  - [6th-Level Sorcerer/Wizard Spells](#6th-level-sorcerer-wizard-spells)
-  - [7th-Level Sorcerer/Wizard Spell](#7th-level-sorcerer-wizard-spell)
-- [Spell Descriptions](#spell-descriptions)
-  - [Brain Spider](#brain-spider)
-  - [Dweomer of Transference](#dweomer-of-transference)
-  - [Glossolalia](#glossolalia)
-  - [Mental Pinnacle](#mental-pinnacle)
-  - [Probe Thoughts](#probe-thoughts)
-  - [Psychic Turmoil](#psychic-turmoil)
-  - [Psychic Turmoil, Greater](#psychic-turmoil-greater)
-  - [Telepathic Bond, Lesser](#telepathic-bond-lesser)
-
 ## Bard Spells
 
 ### 2nd-Level Bard Spell

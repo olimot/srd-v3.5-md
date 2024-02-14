@@ -2,39 +2,6 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 # CLASSES I
 
-## Table of Contents
-
-- [Barbarian](#barbarian)
-  - [Class Skills](#barbarian--class-skills)
-  - [Class Features](#barbarian--class-features)
-  - [Ex-Barbarians](#ex-barbarians)
-- [Bard](#bard)
-  - [Class Skills](#bard--class-skills)
-  - [Class Features](#bard--class-features)
-  - [Ex-Bards](#ex-bards)
-- [Cleric](#cleric)
-  - [Class Skills](#cleric--class-skills)
-  - [Class Features](#cleric--class-features)
-  - [Ex-Clerics](#ex-clerics)
-- [Druid](#druid)
-  - [Class Skills](#druid--class-skills)
-  - [Class Features](#druid--class-features)
-  - [Ex-Druids](#ex-druids)
-  - [The Druid’s Animal Companion](#the-druids-animal-companion)
-  - [Alternative Animal Companions](#alternative-animal-companions)
-    - [4th Level or Higher (Level –3)](#4th-level-or-higher)
-    - [7th Level or Higher (Level –6)](#7th-level-or-higher)
-    - [10th Level or Higher (Level –9)](#10th-level-or-higher)
-    - [13th Level or Higher (Level –12)](#13th-level-or-higher)
-    - [16th Level or Higher (Level –15)](#16th-level-or-higher)
-- [Fighter](#fighter)
-  - [Class Skills](#fighter--class-skills)
-  - [Class Features](#fighter--class-features)
-- [Monk](#monk)
-  - [Class Skills](#monk--class-skills)
-  - [Class Features](#monk--class-features)
-  - [Ex-Monks](#ex-monks)
-
 ## Barbarian
 
 **Alignment:** Any nonlawful.

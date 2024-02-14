@@ -20,11 +20,6 @@ Ability Increases: Upon gaining any level divisible by four, a character increas
 
 Although most of the tables only show information up to a certain level (often 30th), that level is by no means the limit of a character’s advancement. It can be generally assumed that any patterns on a particular table continue infinitely.
 
-## Table of Contents
-
-- [Class Features](#class-features)
-- [Adding a Second Class](#adding-a-second-class)
-
 ## Class Features
 
 Many, but not all, class features continue to accumulate after 20th level. The following guidelines describe how the epic class progressions.

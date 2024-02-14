@@ -16,33 +16,6 @@ An <sup>A</sup>appearing at the end of a power’s name in the power lists denot
 
 Many powers can be augmented in more than one way. When the Augment section contains numbered paragraphs, you need to spend power points separately for each of the numbered options. When a paragraph in the Augment section begins with “In addition,” you gain the indicated benefit according to how many power points you have already decided to spend on manifesting the power.
 
-## Table of Contents
-
-- [Psion/Wilder Powers](#psion-wilder-powers)
-  - [1st-Level Psion/Wilder Powers](#1st-level-psion-wilder-powers)
-  - [2nd-Level Psion/Wilder Powers](#2nd-level-psion-wilder-powers)
-  - [3rd-Level Psion/Wilder Powers](#3rd-level-psion-wilder-powers)
-  - [4th-Level Psion/Wilder Powers](#4th-level-psion-wilder-powers)
-  - [5th-Level Psion/Wilder Powers](#5th-level-psion-wilder-powers)
-  - [6th-Level Psion/Wilder Powers](#6th-level-psion-wilder-powers)
-  - [7th-Level Psion/Wilder Powers](#7th-level-psion-wilder-powers)
-  - [8th-Level Psion/Wilder Powers](#8th-level-psion-wilder-powers)
-  - [9th-Level Psion/Wilder Powers](#9th-level-psion-wilder-powers)
-- [Psion Discipline Powers](#psion-discipline-powers)
-  - [Egoist (Psychometabolism) Discipline Powers](#egoist-psychometabolism-discipline-powers)
-  - [Kineticist (Psychokinesis) Discipline Powers](#kineticist-psychokinesis-discipline-powers)
-  - [Nomad (Psychoportation) Discipline Powers](#nomad-psychoportation-discipline-powers)
-  - [Seer (Clairsentience) Discipline Powers](#seer-clairsentience-discipline-powers)
-  - [Shaper (Metacreativity) Discipline Powers](#shaper-metacreativity-discipline-powers)
-  - [Telepath (Telepathy) Discipline Powers](#telepath-telepathy-discipline-powers)
-- [Psychic Warrior Powers](#psychic-warrior-powers)
-  - [1st-Level Psychic Warrior Powers](#1st-level-psychic-warrior-powers)
-  - [2nd-Level Psychic Warrior Powers](#2nd-level-psychic-warrior-powers)
-  - [3rd-Level Psychic Warrior Powers](#3rd-level-psychic-warrior-powers)
-  - [4th-Level Psychic Warrior Powers](#4th-level-psychic-warrior-powers)
-  - [5th-Level Psychic Warrior Powers](#5th-level-psychic-warrior-powers)
-  - [6th-Level Psychic Warrior Powers](#6th-level-psychic-warrior-powers)
-
 ## Psion/Wilder Powers
 
 ### 1st-Level Psion/Wilder Powers

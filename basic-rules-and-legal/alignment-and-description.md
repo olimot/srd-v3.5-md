@@ -2,16 +2,6 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 # DESCRIPTION
 
-## Table of Contents
-
-- [Alignment](#alignment)
-  - [Good vs. Evil](#good-vs-evil)
-  - [Law vs. Chaos](#law-vs-chaos)
-  - [The Nine Alignments](#the-nine-alignments)
-- [Vital Statistics](#vital-statistics)
-  - [Age](#age)
-  - [Height and Weight](#height-and-weight)
-
 ## Alignment
 
 A creature’s general moral and personal attitudes are represented by its alignment: lawful good, neutral good, chaotic good, lawful neutral, neutral, chaotic neutral, lawful evil, neutral evil, or chaotic evil.

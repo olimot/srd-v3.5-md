@@ -2,50 +2,6 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 # SPECIAL ABILITIES & CONDITIONS
 
-## Table of Contents
-
-- [Special Abilities](#special-abilities)
-  - [Ability Score Loss](#ability-score-loss)
-  - [Antimagic](#antimagic)
-  - [Blindsight and Blindsense](#blindsight-and-blindsense)
-  - [Breath Weapon](#breath-weapon)
-  - [Charm and Compulsion](#charm-and-compulsion)
-  - [Cold Immunity](#cold-immunity)
-  - [Damage Reduction](#damage-reduction)
-  - [Darkvision](#darkvision)
-  - [Death Attacks](#death-attacks)
-  - [Disease](#disease)
-    - [Disease Descriptions](#disease-descriptions)
-    - [Healing a Disease](#healing-a-disease)
-  - [Energy Drain and Negative Levels](#energy-drain-and-negative-levels)
-  - [Etherealness](#etherealness)
-  - [Evasion and Improved Evasion](#evasion-and-improved-evasion)
-  - [Fast Healing](#fast-healing)
-  - [Fear](#fear)
-  - [Fire Immunity](#fire-immunity)
-  - [Gaseous Form](#gaseous-form)
-  - [Gaze Attacks](#gaze-attacks)
-  - [Incorporeality](#incorporeality)
-  - [Invisibility](#invisibility)
-  - [Level Loss](#level-loss)
-  - [Low-Light Vision](#low-light-vision)
-  - [Paralysis](#paralysis)
-  - [Poison](#poison)
-    - [Perils of Using Poison](#perils-of-using-poison)
-    - [Poison Immunities](#poison-immunities)
-  - [Polymorph](#polymorph)
-  - [Psionics](#psionics)
-  - [Rays](#rays)
-  - [Regeneration](#regeneration)
-  - [Resistance to Energy](#resistance-to-energy)
-  - [Scent](#scent)
-  - [Spell Resistance](#spell-resistance)
-    - [When Spell Resistance Applies](#when-spell-resistance-applies)
-    - [Successful Spell Resistance](#successful-spell-resistance)
-  - [Tremorsense](#tremorsense)
-  - [Turn Resistance](#turn-resistance)
-- [Conditions](#conditions)
-
 ## Special Abilities
 
 A special ability is either extraordinary, spell-like, or supernatural in nature.

@@ -2,15 +2,6 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 # MAGIC ITEMS III (POTIONS, RINGS, & RODS)
 
-## Table of Contents
-
-- [Potions and Oils](#potions-and-oils)
-- [Potion Descriptions](#potion-descriptions)
-- [Rings](#rings)
-- [Ring Descriptions](#ring-descriptions)
-- [Rods](#rods)
-- [Rod Descriptions](#rod-descriptions)
-
 ## Potions and Oils
 
 A potion is a magic liquid that produces its effect when imbibed. Magic oils are similar to potions, except that oils are applied externally rather than imbibed. A potion or oil can be used only once. It can duplicate the effect of a spell of up to 3rd level that has a casting time of less than 1 minute.
