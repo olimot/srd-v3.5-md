@@ -974,7 +974,7 @@ _Type:_ Same as the deity.
 
 _Hit Points:_ Same as the mortal, +1 for each rank of the deity.
 
-\_Armor Class:\_The mortal gains a divine bonus to Armor Class equal to half the deity’s divine rank.
+_Armor Class:_ The mortal gains a divine bonus to Armor Class equal to half the deity’s divine rank.
 
 _Ability Scores:_ Strength, Dexterity, and Constitution are unchanged. Intelligence, Wisdom, and Charisma become 5 points lower than the deity’s (or remain as the mortal’s scores if they are higher).
 

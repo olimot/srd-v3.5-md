@@ -38,7 +38,7 @@ _Mental Immunity:_ All petitioners are immune to mind-affecting effects.
 
 _Other Immunities:_ Depending on its nature, the petitioner is immune to two of the following effects: acid, cold, electricity, fire, poison, petrifaction, or polymorphing. These immunities are applied similarly to all petitioners of a particular plane or deity.
 
-\_Resistances:\_Depending on the nature of the petitioner’s plane, the petitioner gains resistance 20 against two of the following effects: acid, cold, electricity, or fire.
+_Resistances:_ Depending on the nature of the petitioner’s plane, the petitioner gains resistance 20 against two of the following effects: acid, cold, electricity, or fire.
 
 _Planar Commitment:_ Petitioners cannot leave the plane they inhabit. They are teleported one hundred miles in a random direction if an attempt is made to force them to leave.
 
